@@ -1,0 +1,64 @@
+/* red */
+.callout[data-callout="red"] {
+  --callout-color: 255, 97, 136;
+  --callout-icon: bookmark;
+}
+.callout[data-callout="r"] {
+  --callout-color: 255, 97, 136;
+  --callout-icon: bookmark;
+}
+/* orange */
+.callout[data-callout="orange"] {
+  --callout-color: 252, 152, 103;
+  --callout-icon: bookmark;
+}
+.callout[data-callout="o"] {
+  --callout-color: 252, 152, 103;
+  --callout-icon: bookmark;
+}
+/* yellow */
+.callout[data-callout="yellow"] {
+  --callout-color: 255, 216, 102;
+  --callout-icon: bookmark;
+}
+.callout[data-callout="y"] {
+  --callout-color: 255, 216, 102;
+  --callout-icon: bookmark;
+}
+/* green */
+.callout[data-callout="green"] {
+  --callout-color: 169, 220, 118;
+  --callout-icon: bookmark;
+}
+.callout[data-callout="g"] {
+  --callout-color: 169, 220, 118;
+  --callout-icon: bookmark;
+}
+/* blue */
+.callout[data-callout="blue"] {
+  --callout-color: 120, 220, 232;
+  --callout-icon: bookmark;
+}
+.callout[data-callout="b"] {
+  --callout-color: 120, 220, 232;
+  --callout-icon: bookmark;
+}
+/* purple */
+.callout[data-callout="purple"] {
+  --callout-color: 171, 157, 242;
+  --callout-icon: bookmark;
+}
+.callout[data-callout="p"] {
+  --callout-color: 171, 157, 242;
+  --callout-icon: bookmark;
+}
+
+/* miscelaneous */
+.callout[data-callout="code"] {
+  --callout-color: 60, 140, 40;
+  --callout-icon: binary;
+}
+.callout[data-callout="math"] {
+  --callout-color: 220, 60, 90;
+  --callout-icon: function-square;
+}

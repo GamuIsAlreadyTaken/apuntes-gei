@@ -1,0 +1,8 @@
+{
+  "textFontFamily": "Consolas ligaturized v3",
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "callout-colors",
+    "extra-formatting"
+  ]
+}

@@ -1,0 +1,20 @@
+**/*
+# Config
+!.obsidian
+!.obsidian/plugins
+!.obsidian/plugins/**
+!.obsidian/snippets
+!.obsidian/snippets/**
+!.obsidian/appearance.json
+!.obsidian/community-plugins.json
+!.obsidian/core-plugins.json
+
+# Data
+!Uni
+!Uni/**
+
+# Git
+!.gitignore
+!.gitattributes
+!LICENSE
+!README
