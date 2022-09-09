@@ -3,6 +3,7 @@
 !.obsidian
 !.obsidian/plugins
 !.obsidian/plugins/**
+.obsidian/plugins/data.json
 !.obsidian/snippets
 !.obsidian/snippets/**
 !.obsidian/appearance.json
