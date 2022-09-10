@@ -1,4 +1,3 @@
-- [ ] Convalidar asignatura
 
 > [!info] Profesor de teoria
 > Nombre: Juan Ramon Rabuñal

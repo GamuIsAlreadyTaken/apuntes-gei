@@ -42,7 +42,6 @@ Formas para expresar algoritmos
 - Funcional
 - Declarativa
 - Concurrente 
-- [ ] Mirar CUDA
 - Tiempo real
 
 
