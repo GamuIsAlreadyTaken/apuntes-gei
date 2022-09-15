@@ -61,3 +61,5 @@ Un conjunto de proposiciones es **consistente** si la conjuncion de todas es una
 Si cuando las primitivas son verdad la proposicion es verdad se trata de una **interpretacion modelo**
 Si la proposicion es mentira se trata de un **contraejemplo**
 - [ ] Mirar interpretaciones modelo
+
+- [ ] Separar esta pagina en capitulos(distintas notas)
