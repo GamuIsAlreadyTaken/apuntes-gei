@@ -19,7 +19,7 @@ Evaluacion:
 Para aprobar: (1) + (2) >= 5
 
 
-> [!code] [Apuntes de python](https://luishervella.github.io/JB_Calculo1_UDC/capitulos/introduccion.html) 
+> [!code] [Apuntes de python](https://luishervella.github.io/JB_Calculo1_UDC/capitulos/01/README.html) 
 > 
 
 
