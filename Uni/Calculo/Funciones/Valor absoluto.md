@@ -1,5 +1,4 @@
-## Valor absoluto
-sqrt(x^2)
+## Valor absoluto$$\sqrt{x^2}$$
 Se representa como una funcion por partes, x cuando es >0 y -x cuando es <0
 ### Propiedades de la funcion
 - Copiar las propiedads

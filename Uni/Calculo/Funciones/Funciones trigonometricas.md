@@ -1,35 +1,46 @@
+# Funciones trigonometricas
 
-
-
-sin
-- funcion impar
-- Periodo 2pi
-cos
-- funcion par
-- periodo 2pi
-
-cos(x) = cos(-x)
-sin(x) = -sin(x)
-
-cos(x) = sin(x+pi/2)
-sen(x) = - cos(x + pi/2)
-
-tan(x) = sin(x) / cos(x)
-- Dominio de la tangente
-- [ ] Poner el latex
+## Seno
+## $$\sin{x}$$
+### Propiedades
 - Funcion impar
-- [ ] Demostrar que tan es impar
-- periodo pi
+- Periodo $2\pi$
+
+## Coseno
+## $$\cos{x}$$
+### Propiedades
+- Funcion par
+- Periodo $2\pi$
+
+## Tangente
+## $$\tan x = \frac{\sin x}{\cos x}$$
+- Dominio de la tangente $$
+x\in\mathbb{R}\,|\cos x \neq
+0\rightarrow \frac{\pi}{2}*nx,\,n\in\mathbb{Z}
+$$
+- Funcion impar
+- Periodo $\pi$
+
+## Identidades del seno y el coseno
+### $$\begin{align*}
+\cos x &= \cos -x\\
+\sin x &= -\sin -x\\
+\cos x &= \sin\left(x+\frac{\pi}{2}\right)\\
+\sin x &= - \cos\left(x + \frac{\pi}{2}\right)\\
+\end{align*}$$
+
+
 
 ### Funciones inversas
-#### Como no son inyectivas no existe la funcion inversa
+#### Al no ser inyectivas no existe la funcion inversa
 - Para resolverlo se coge un intervalo de las funciones donde si sean inyectivas
 
-- arcsin
-	- Dominio entre [-1, 1]
-	- funcion impar
-- arccos
-	- Dominio entre [0, $\pi$]
-- arctan
-	- dominio [-pi / 2, pi / 2]
-	- funcion impar
+## Arcoseno
+- Dominio $[-1, 1]$
+- funcion impar
+## Arco coseno
+- Dominio $[0, \pi]$
+- No es simetrica
+## Arcotangente
+- Dominio $\left[-\frac{\pi}{2},\frac{\pi}{2}\right]$
+- funcion impar
