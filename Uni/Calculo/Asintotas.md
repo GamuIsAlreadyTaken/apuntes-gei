@@ -1,6 +1,6 @@
 # Asintotas verticales
 - Se buscan en puntos que no pertenecen al dominio
-- El limite cuando x tiende a x$_0$ sea igual a $+-\infinity$ 
+- El limite cuando x tiende a x$_0$ sea igual a $\pm\infty$   
 
 # Asintotas horizantales
 - Cuando el limite cuando x tiende a masmenos inf = k

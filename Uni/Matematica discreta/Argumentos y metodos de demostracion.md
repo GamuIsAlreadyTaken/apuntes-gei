@@ -24,5 +24,3 @@ Tipos de demostracion
 	- Reduccion al absurdo(ley de reduccion al absurdo)$$p\longrightarrow q \equiv(p\wedge q)\longrightarrow \bot$$
 	- Principio de induccion$$\langle P(1), \forall\ k\ (P(k)\rightarrow P(k+1)\rangle\models \forall\ x \in P(x)$$
 	- Principio de induccion fuerte$$\langle\ P(1),\ P(2),\ ...,\ P(k) \ \rangle\models\ P(k+1) \implies \forall\ n\ P(n)$$
-
-
