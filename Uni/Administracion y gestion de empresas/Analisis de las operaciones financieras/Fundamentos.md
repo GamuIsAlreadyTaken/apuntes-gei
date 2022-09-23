@@ -21,3 +21,7 @@
 
 - Tipo de interes
 
+
+Priincipio de devengo
+- Los ingresos y gastos se cuentan desde el momento que se conocen
+
