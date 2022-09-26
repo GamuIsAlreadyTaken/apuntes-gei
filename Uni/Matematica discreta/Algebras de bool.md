@@ -20,4 +20,11 @@ A = {a,b,c,d,...}, 2 operaciones binarias '+' y '*' y una operación unaria '-'(
 #### Ley de absorcion$$a+(a*b)=a$$
 
 Forma normal cojuntiva
-Forma normal disyuntiva
+- [ ] rellenar
+Forma normal disyuntiva (sumas de productos)
+- Minimal, no hay otra con menos sumandos
+- Cualquier otra con mismo numero de sumandos tiene menos variables en alguno de los sumandos
+
+
+Diagramas o mapas de karnaugh 
+- [ ] rellenar
