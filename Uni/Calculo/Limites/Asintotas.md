@@ -6,22 +6,29 @@
 - Cuando el limite cuando x tiende a masmenos inf = k
 - Es interesante saber si la funcion esta por encima o por debajo de la asintota
 # Asintota oblicua
-- [ ] Coger las formulas de m y n
-si m existe y es finito
-y si n existe y es finito
-sino no tiene asintotas oblicuas
+Las asintotas oblicuas tienen la forma:
+### $$
+\begin{align*}
+&mx-n \\
+&m = \lim_{x\to\pm\infty}\frac{f(x)}{x}\\
+&n = \lim_{x\to\pm\infty}f(x)-mx
+\end{align*}
+\text{Si m y n existen y son finitos} \\
+
+$$
+En caso contrario, la función no tiene asintotas
 
 - [ ] Practicar asintotas!
 
 
 # Continuidad
-Una funcion es continua en un punto si y solo si existe el limite cuando x tiene al punto y que el limite coincide con f(x)
-
-- [ ] Coger la formula
+Una funcion es continua en un punto si y solo si:
+#### $$
+\lim_{x\to x_0} f(x) = f(x)
+$$
 
 ## Tipos de discontinuidades
 ### Discontinuidades esenciales
-- No 
 ### Discontinuidad evitable
 
 
@@ -38,17 +45,5 @@ El limite conmuta con las funciones continuas
 # Continuidad en intervalos
 
 # Teorema de bolzano y weierstrass
-
-
-
-
-
-
-
-
-
-
-
-
 
 - [ ] Poner el latex
