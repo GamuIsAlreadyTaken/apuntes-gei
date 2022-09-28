@@ -25,3 +25,8 @@
 Priincipio de devengo
 - Los ingresos y gastos se cuentan desde el momento que se conocen
 
+### Ley de capitalización simple
+$$C_n=C_0\ (1+n\,i)$$
+### Ley de capitalización compuesta
+### Ley de descuento simple
+### Ley de descuento compuesta
