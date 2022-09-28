@@ -19,9 +19,3 @@ Una funcion real de variable real es una aplicacion que lleva a cada punto en un
 
 6. Periodica
 	- Una funcion es periodica con periodo $t$ cuando la funcion toma valores iguales a partir de un periodo $t$ $$f(x) = f(x + t)$$
-
-Composicion de funciones(Para mañana)
-
-
-
-patata

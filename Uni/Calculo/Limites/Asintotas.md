@@ -18,8 +18,6 @@ Las asintotas oblicuas tienen la forma:
 $$
 En caso contrario, la función no tiene asintotas
 
-- [ ] Practicar asintotas!
-
 
 # Continuidad
 Una funcion es continua en un punto si y solo si:
@@ -47,3 +45,5 @@ El limite conmuta con las funciones continuas
 # Teorema de bolzano y weierstrass
 
 - [ ] Poner el latex
+
+- [ ] Terminar apuntes!!

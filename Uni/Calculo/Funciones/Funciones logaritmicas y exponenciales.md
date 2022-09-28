@@ -11,4 +11,4 @@ log(potencia) =
 tercera prop(rellenar)(creo que es cambio de base)
 
 log$_a$(x) = log(x) / log(a)
-- [ ] poner bonito
+- [ ] Acabar apuntes!!

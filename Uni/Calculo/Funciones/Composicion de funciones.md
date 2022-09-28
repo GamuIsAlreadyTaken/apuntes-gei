@@ -11,7 +11,7 @@ Si una funcion es inyectiva se puede crear la inversa de esta (tiene sentido pie
 
 ## Funcion inversa
 Es el elemento inverso del las funciones con el operador de composicion
-Una funcion compuesta con su inversa se eliminan$$f(f^{-1}(x)) = x$$
+Una funcion compuesta con su inversa se eliminan$$f(f^{-1}(x)) = x \qquad y\qquad f^{-1}(f(x))=x$$
 Para calcular la funcion inversa, despejar la x
 Para comprobar que una funcion es la inversa de otra hay que probar la composicion en las dos direcciones, ya que [La composicion no es conmutativa]
 
