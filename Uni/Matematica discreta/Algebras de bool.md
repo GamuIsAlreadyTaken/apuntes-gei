@@ -34,7 +34,7 @@ Forma normal disyuntiva (sumas de productos)
 #### Implicantes, los 1 de la tabla
 - Primos, si son adyacentes
 - Esenciales, Cuando no hay ningún otro implicante que pueda cubrir sus unos
-- [ ] Rellenar (no lo explica)
+- [ ] Rellenar
 
 
 
