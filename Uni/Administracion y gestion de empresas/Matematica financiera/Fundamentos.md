@@ -28,5 +28,12 @@ Priincipio de devengo
 ### Ley de capitalización simple
 $$C_n=C_0\ (1+n\,i)$$
 ### Ley de capitalización compuesta
+$$C_n=C_0\times(1+i)^n$$
+- $n$ es el factor de capitalización
 ### Ley de descuento simple
+##### Racional
+$$C_0 =\frac{C_n}{1+ni}$$
+##### Comercial
+$$C_0=C_n-D\ ,\qquad D=C_n\ i\ n$$
 ### Ley de descuento compuesta
+$$C_0=\frac{C_n}{(1+i)^n}$$
