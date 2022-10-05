@@ -8,4 +8,9 @@ Practicas 40%
 Temario:
 - Representacion de la información
 - Breve historia de la computacion
-- Arquitectura basica de un computador
+- Arquitectura basica de un computado
+
+
+> [!error] Convalidado ?
+
+

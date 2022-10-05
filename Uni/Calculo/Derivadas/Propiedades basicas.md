@@ -11,8 +11,8 @@ $$
 \end{align*}
 $$
 ## Ecuación de la recta tangente
-- [ ] Terminar esta parte
-
+En un punto $P$ la tangente a $f$ es dada por:
+$$ P:(a,f(a))\qquad t=f'(a)x\ +\ f(a)-f'(a)a$$
 
 ## Derivadas laterales
 - Usando los limites anteriores pero se estudian por el lado correspondiente
@@ -20,15 +20,18 @@ $$
 
 ## Propiedades de la derivacion
 - Si la funcion es derivable en un punto entonces la funcion es continua en ese punto
-- La derivada de un escalar por una funcion es la derivada de la funcion, por el escalar
-- [ ] Division
-- [ ] Multiplicacion
-- [ ] Regla de la cadena
+- La derivada de un escalar por una funcion es la derivada de la funcion, por el escalar$$f'(kx)=kf'(x)$$
+#### Multiplicacion
+$$f(x) = A*B,\qquad f'(x)=A'B+AB'$$
+#### Division
+$$f'\left(\frac{x}{y}\right)=\frac{A'B-AB'}{y^2}$$
+
+- [ ] Regla de la cadena?
 # Derivadas de funciones elementales 
-- [ ] Aprenderlo
+- [ ] Aprenderlo!
 
 ## Derivada de la función inversa
-- [ ] Latex
+
 
 # Derivación implicita
 - Funciones de forma f(x, y) donde ninguna variable se puede despejar
