@@ -71,5 +71,5 @@ Tiene 2 objetivos:
 	1. Forma juridica
 	2. Seguros, patentes, permisos
 
-- [ ] Hacer el plan de empresa (entregar 26/09)
+- [x] Hacer el plan de empresa (entregar 26/09)
 

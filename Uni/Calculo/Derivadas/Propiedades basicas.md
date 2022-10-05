@@ -41,3 +41,5 @@ $$f'\left(\frac{x}{y}\right)=\frac{A'B-AB'}{y^2}$$
 #mañana
 
 
+
+- [ ] Mirar el codigo de numpy de polinomio de interpolacion de lagrange
