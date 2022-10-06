@@ -31,15 +31,38 @@ $$f'\left(\frac{x}{y}\right)=\frac{A'B-AB'}{y^2}$$
 - [ ] Aprenderlo!
 
 ## Derivada de la función inversa
-
+- [ ] Latex
 
 # Derivación implicita
 - Funciones de forma f(x, y) donde ninguna variable se puede despejar
 - [ ] Hacer derivacion a mano :)
 - [ ] Latex
 # Derivación logaritmica
-#mañana
+- [ ] Hacer la derivacion, empezar con $y(x)=f(x)^{g(x)}$ y tomar logs a ambos lados
 
+
+## Regla de l'Hôpital
+- 2 funciones derivables en el rango - [ ] completar
+- Si ambos limites en X$_0$ entonces 
+- Se puede aplicar varias veces - [ ] mirar lhopital en sus apuntes
+
+
+### Suma
+- k + oo -> oo
+- ...
+- [ ] Seguir con esto
+### Multiplicación
+- k * oo -> oo
+- k * -oo -> -oo
+### División
+- [ ] Rellenar identidades
+
+el limite es 0$^+$ si se queda por encima del 0, 0$^-$ si se queda por debajo ...
+
+### Indeterminaciones
+- 0/0
+- oo/oo
+- o+-oo
 
 
 - [ ] Mirar el codigo de numpy de polinomio de interpolacion de lagrange

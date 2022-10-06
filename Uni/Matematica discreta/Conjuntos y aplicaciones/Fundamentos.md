@@ -39,3 +39,18 @@ $$Si\quad A\subset B\wedge B\subset A\Rightarrow A = B$$
 ...
 ## Complementario
 ...
+### Disjuntos
+- Conjuntos sin elementos en comun
+
+# Aplicaciones(Funciones)
+- Una aplicacion de A en B es una relación entre A y B que a cada elemento de A le asigna un unico elemento de B
+<img class="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmh9weRW5LLLXRq67aDEGqgU9s1M6OGD8uog&usqp=CAU">
+- A es el conjunto inicial
+- El **dominio** es igual a A
+- B es el conjunto final
+- La **imagen** esta compuesta por todos los elementos de B que participan en la relación
+#### Aplicación reciproca
+
+### Tipos de aplicaciones
+- Inyectivas
+- Biyectivas
