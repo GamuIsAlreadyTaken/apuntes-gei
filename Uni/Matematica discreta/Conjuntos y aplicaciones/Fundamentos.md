@@ -41,6 +41,8 @@ $$Si\quad A\subset B\wedge B\subset A\Rightarrow A = B$$
 ...
 ### Disjuntos
 - Conjuntos sin elementos en comun
+### Cardinal de un conjunto
+- Numero de elementos de este
 
 # Aplicaciones(Funciones)
 - Una aplicacion de A en B es una relación entre A y B que a cada elemento de A le asigna un unico elemento de B
@@ -48,9 +50,17 @@ $$Si\quad A\subset B\wedge B\subset A\Rightarrow A = B$$
 - A es el conjunto inicial
 - El **dominio** es igual a A
 - B es el conjunto final
-- La **imagen** esta compuesta por todos los elementos de B que participan en la relación
+- La **imagen** esta compuesta por todos los elementos de B que participan en la relación$$f_*(A)=Img\ f$$
 #### Aplicación reciproca
 
 ### Tipos de aplicaciones
-- Inyectivas
-- Biyectivas
+- Inyectivas, si cada elemento de A tienen una sola imagen en B, (Estas funciones son estrictamente crecientes/decrecientes)
+	- En una composición inyectiva solo la primera función tiene que ser inyectiva
+- Sobreyectiva, si todos los elementos de B tienen una preimagen, (Por lo tanto, la imagen de f coincide con B)
+	- En una composición sobreyectiva la segunda función tiene que ser sobreyectiva
+- Biyectiva o Biunivoca, si es inyectiva y sobreyectiva
+
+
+- Si 2 conjuntos tienen el mismo cardinal, entonces: 
+	- Si $f:A\to B$ es inyectiva, entonces $f$ es biyectiva
+	- Si $f:A\to B$ es sobreyectiva, entonces $f$ es biyectiva 
