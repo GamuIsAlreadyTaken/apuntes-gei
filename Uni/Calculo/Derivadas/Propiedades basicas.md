@@ -43,7 +43,7 @@ $$f'\left(\frac{x}{y}\right)=\frac{A'B-AB'}{y^2}$$
 
 ## Regla de l'Hôpital
 - 2 funciones derivables en el rango - [ ] completar
-- Si ambos limites en X$_0$ entonces 
+- Si ambos limites en X$_0$ entonces
 - Se puede aplicar varias veces - [ ] mirar lhopital en sus apuntes
 
 
