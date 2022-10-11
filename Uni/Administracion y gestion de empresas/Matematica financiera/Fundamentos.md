@@ -47,3 +47,16 @@ calcular la cantidad adicional a depositar en el año 2 para obtener 1500
 i = 8%
 
 año 2 = 1000 * (1+.08)
+
+### Intereses fraccionados ($i_m$)
+$$
+i = (1+i_m)^m-1
+$$$$
+i_m=(1+i)^{1/m}-1
+$$
+$$
+c_n=c_0\ (1+i_m)^{n\ m}
+$$
+$$
+c_0=c_n\ (1+i_m)^{-n\ m}
+$$
