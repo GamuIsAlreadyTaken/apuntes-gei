@@ -37,3 +37,13 @@ $$C_0 =\frac{C_n}{1+ni}$$
 $$C_0=C_n-D\ ,\qquad D=C_n\ i\ n$$
 ### Ley de descuento compuesta
 $$C_0=\frac{C_n}{(1+i)^n}$$
+
+
+
+# Principio de equivalencia financiera
+
+hoy 100€, en 3 años 1500€
+calcular la cantidad adicional a depositar en el año 2 para obtener 1500
+i = 8%
+
+año 2 = 1000 * (1+.08)
