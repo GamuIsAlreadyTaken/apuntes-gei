@@ -5,8 +5,8 @@ Una funcion real de variable real es una aplicacion que lleva a cada punto en un
 ##### Dominio
 - El dominio de $f$ es el conjunto $A$ = imagen de $f$ 
 
-- Una funcion esta [[1. Conjuntos de números#^Conjuntos-acotados|acotada]] cuando el conjunto de sus imagenes esta [[1. Conjuntos de números#^Conjuntos-acotados|acotado]]
-- Ocurre lo mismo con el resto de elementos de [[1. Conjuntos de números#^Conjuntos-acotados|Conjuntos acotados]]
+- Una funcion esta [[Conjuntos de números#^Conjuntos-acotados|acotada]] cuando el conjunto de sus imagenes esta [[Conjuntos de números#^Conjuntos-acotados|acotado]]
+- Ocurre lo mismo con el resto de elementos de [[Conjuntos de números#^Conjuntos-acotados|Conjuntos acotados]]
 
 ### Tipos de funciones:
 1. Creciente: $$a < b,\  f(a) \leq f(b)$$
