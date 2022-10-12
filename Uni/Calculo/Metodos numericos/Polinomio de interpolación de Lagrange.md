@@ -26,3 +26,15 @@ $$p(x) = y_0l_0(x)+y_1l_1(x)+y_2l_2(x)+y_3l_3(x)$$
 ## Construcción mediante diferencias divididas
 - Se representa como una tabla
 - Formula de Newton
+
+Permite añadir nuevos puntos sin necesidad de rehacer todos los calculos
+
+Para ello, podemos empezar con el caso mas basico, 1 solo punto $(x_0,y_0)$
+$$P_0(x) = y_0$$
+Podemos ver que para $x=x_0$ el polinomio devuelve $y_0$
+Para el siguiente punto $(x_1,y_1)$ el polinomio $P_1(x)$ será $$P_1(x)=P_0(x)+a_1(x-x_0)$$
+Donde a está dada por la siguiente formula$$a_k=\frac{y_k-P_{k-1}(x_k)}{(x_k-x_0)(x_k-x_1)(x_k-x_2)...(x_k-x_{k-1})}$$
+Que se puede sacar de despejar $a_k$, en el caso de $a_1$ queda así$$a_1=\frac{y_1-y_0}{(x-x_0)}$$
+
+- [ ] Continuar, añadir lo de la tabla
+- [ ] Mirar el codigo python del profe
