@@ -6,7 +6,7 @@ Asignaturas convalidables:
 - Programacion 2 (1.2)
 
 
-Asignaturas para rellenar: 
+Asignaturas para rellenar: (cant do)
 - Tecnologia electronica (1.2)
 - Estadistica (1.2)
 - Estructura de computadores (2.1)

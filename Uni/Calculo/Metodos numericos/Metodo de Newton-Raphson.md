@@ -13,3 +13,7 @@ La derivada en cada punto evaludao debe ser no nula ($f'(x_n)\neq 0$)
 sp.diff -> derivada en sympy
 
 mismo criterio de parada que el del metodo de dicotomia
+
+
+## Metodo de Newton-Raphson
+- Metodo mas eficiente para calcular raices de funciones

@@ -68,5 +68,3 @@ el limite es 0$^+$ si se queda por encima del 0, 0$^-$ si se queda por debajo ..
 - [ ] Mirar el codigo de numpy de polinomio de interpolacion de lagrange
 
 
-## Metodo de Newton-Raphson
-- Metodo mas eficiente para calcular raices de funciones
