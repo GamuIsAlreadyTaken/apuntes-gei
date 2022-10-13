@@ -52,15 +52,29 @@ $$Si\quad A\subset B\wedge B\subset A\Rightarrow A = B$$
 - B es el conjunto final
 - La **imagen** esta compuesta por todos los elementos de B que participan en la relación$$f_*(A)=Img\ f$$
 #### Aplicación reciproca
-
+- [ ] TODO
 ### Tipos de aplicaciones
 - Inyectivas, si cada elemento de A tienen una sola imagen en B, (Estas funciones son estrictamente crecientes/decrecientes)
 	- En una composición inyectiva solo la primera función tiene que ser inyectiva
+	- $|A|\leq|B|$
 - Sobreyectiva, si todos los elementos de B tienen una preimagen, (Por lo tanto, la imagen de f coincide con B)
 	- En una composición sobreyectiva la segunda función tiene que ser sobreyectiva
+	- $|A|\geq|B|$
 - Biyectiva o Biunivoca, si es inyectiva y sobreyectiva
-
+	- $|A|=|B|$
 
 - Si 2 conjuntos tienen el mismo cardinal, entonces: 
 	- Si $f:A\to B$ es inyectiva, entonces $f$ es biyectiva
 	- Si $f:A\to B$ es sobreyectiva, entonces $f$ es biyectiva 
+
+# Identidad de un conjunto
+Denotado como $I_A$ o $id_A$ para un conjunto $A$ lleva a todos los elementos a si mismos$$A\longrightarrow A$$
+Si $g\circ f = I_A$ podemos decir que 
+- g es la inversa por la izquierda de f
+- f es la inversa por la derecha de g
+Si ambas direcciones de la composición dan $I_A$ entonces g es la inversa de f$$g=f^{-1}$$$$f=g^{-1}$$
+Tanto $f$ como $g$ tienen que ser biyectivas para poder ser inversas
+
+## Composicion de funciones
+- No es conmutativa $$f\circ g \neq g\circ f$$
+- Es asociativa $$h\circ (g\circ f)=(h\circ g)\circ f$$
