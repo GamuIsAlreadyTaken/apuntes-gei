@@ -17,3 +17,5 @@ extremo relativo => punto critico, punto critico !=> extremo relativo
 Puntos criticos de la funcion
 Puntos donde f no es derivable
 Los extremos del intervalo
+
+- [ ] Dibujar y derivar $\frac{1}{2}\left(\sin^{2}\left(x\right)+\cos x\right)+2\sin x-x$
