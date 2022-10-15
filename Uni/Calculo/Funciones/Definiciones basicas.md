@@ -15,7 +15,8 @@ Una funcion real de variable real es una aplicacion que lleva a cada punto en un
 4. Estrictamente Dereciente: $$a < b,\ f(a) > f(b)$$
 5. Simetrica par/impar
 	- Par: $$f(x) = f(-x)$$
-	- impar: $$f(x) = -f(-x)$$
-
+	- Impar: $$f(x) = -f(-x)$$
+^Simetria-en-funciones
 6. Periodica
 	- Una funcion es periodica con periodo $t$ cuando la funcion toma valores iguales a partir de un periodo $t$ $$f(x) = f(x + t)$$
+^Periodo-en-funciones

@@ -13,7 +13,7 @@
 $x_0$ podría no estar definido en la función, por ello se especifica que$0<|x-x_0|$ 
 
 >[!r] ## Propiedades de los limites
-> Sean $f,g:A\subset\mathbb{R}\to\mathbb{R}, x_0\in A$. Supongamos que $f$ está [[Conjuntos de números#^Conjuntos-acotados|acotada]] cerca de $x_0$ y que $\lim\limits_{x\to x_0} g(x) = 0$ 
+> Sean $f,g:A\subset\mathbb{R}\to\mathbb{R}, x_0\in A$. Suponiendo que $f$ está [[Conjuntos de números#^Conjuntos-acotados|acotada]] cerca de $x_0$ y que $\lim\limits_{x\to x_0} g(x) = 0$ 
 > - $\lim\limits_{x\to x_0} (f\ g)(x)=0$
 > - $\lim\limits_{x\to x_0}(\lambda f)(x)=\lambda\lim\limits_{x\to x_0}f(x), \qquad \forall\lambda\in\mathbb{R}$
 > - $\lim\limits_{x\to x_0}(fg)(x)=\left(\lim\limits_{x\to x_0}f(x)\right)\left(\lim\limits_{x\to x_0}g(x)\right)$
