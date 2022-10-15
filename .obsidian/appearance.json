@@ -4,5 +4,6 @@
   "enabledCssSnippets": [
     "callout-colors",
     "extra-formatting"
-  ]
+  ],
+  "accentColor": ""
 }
