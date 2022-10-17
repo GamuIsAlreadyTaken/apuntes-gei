@@ -29,7 +29,7 @@ Surgen para dar solucion a la siguiente equiacion:
 $$x^2+1=0$$
 
 los numeros complejos se representan en el eje cartesiano $$\mathbb{C}=\{a\ +\ b*i,\ a,b \in \mathbb{R}\}$$
-# Representaciones de lo numeros complejos
+# Representaciones de números complejos
 ## 1. Cartesiana $$(a,b)$$
 ## 2. Binomica $$a + bi$$
 
@@ -38,9 +38,8 @@ Si las partes imaginarias son 0 las operaciones deben ser consistentes con las o
 - ###### Suma: $$a+bi+c+di= (a+c)\ +\ (b+d)i$$
 Se suman las partes reales con las reales y las imaginarias con las imaginarias
 
-- ##### Multiplicacion: $$(a + bi)(c + di) = ac + adi + bci + bd i^2$$
-Se distribuye como en la multiplicacion en $\mathbb{R}$
-- [ ] Terminar la formula de multiplicacion
+- ##### Multiplicacion: $$(a + bi)(c + di) = ac + adi + bci + bd i^2 = (ac-bd) + (bci+adi)$$
+Se distribuye como en la multiplicacion de polinomios
 - **Elemento neutro**: al multiplicar por el no cambia el resultado$$a*b = a$$En el caso de la multiplicacion de $\mathbb{C}$ es el mismo que en la multiplicacion en $\mathbb{R}$, es decir $1$
 - **Elemento inverso**: el resultado al multiplicar un numero por su inverso es $1$$$a*a^{-1} = 1$$Dado el numero complejo: $z=a+bi$
   Su inverso será: $$z^{-1}=\frac{a}{a^2+b^2}-\frac{b}{a^2+b^2}i$$ 
@@ -74,7 +73,7 @@ Y la potenciacion:
 #### Propiedad(Formula de De Moivre)$$\left(\cos{x}+i\sin{x}\right)^n=\cos{nx}+i\sin{nx}$$
 Raizes de un numero complejo (Para mañana)
 
-- [ ] Hacer los ejercicios del jupyter notebook
+- [ ] #Ejercicio Hacer los ejercicios del jupyter notebook
 
 ---
 
@@ -95,7 +94,3 @@ Se da que:
 >- Un conjunto esta **acotado superiormente** si tiene cota superior
 
 ^Conjuntos-acotados
-
-
-
-

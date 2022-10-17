@@ -1,14 +1,8 @@
-
-
 La derivada de una funcion en un punto representa la pendiente de la tangente a esa funcion en dicho punto
 
 Para calcularla calculamos la pendiente de la recta que contiene 2 puntos cuya distancia tiende a 0
 $$
-\begin{align*}
-&f'(x_0) = \lim_{h\to0}\frac{f(x_0+h) - f(x_0)}{h}\\
-&\qquad\qquad\qquad o\\
-&f'(x_0) = \lim_{x\to x_0}\frac{f(x)-f(x_0)}{x-x_0}
-\end{align*}
+f'(x_0) = \lim_{h\to0}\frac{f(x_0+h) - f(x_0)}{h} =f'(x_0) = \lim_{x\to x_0}\frac{f(x)-f(x_0)}{x-x_0}
 $$
 ## Ecuación de la recta tangente
 En un punto $P$ la tangente a $f$ es dada por:
@@ -16,19 +10,41 @@ $$ P:(a,f(a))\qquad t=f'(a)x\ +\ f(a)-f'(a)a$$
 
 ## Derivadas laterales
 - Usando los limites anteriores pero se estudian por el lado correspondiente
-- Para que una funcion sea derivable en un punto sus derivadas lateraales deben coincidir
+- Para que una funcion sea derivable en un punto sus derivadas laterales deben coincidir
 
-## Propiedades de la derivacion
-- Si la funcion es derivable en un punto entonces la funcion es continua en ese punto
-- La derivada de un escalar por una funcion es la derivada de la funcion, por el escalar$$f'(kx)=kf'(x)$$
-#### Multiplicacion
-$$f(x) = A*B,\qquad f'(x)=A'B+AB'$$
-#### Division
-$$f'\left(\frac{x}{y}\right)=\frac{A'B-AB'}{y^2}$$
+# Propiedades de la derivacion
+- $f\ no\ continua\ en\ x_0\Rightarrow f \ no\ derivable\ en\ x_0$
+- Derivada del producto por un escalar$$(\lambda f)'(x)=\lambda f'(x)$$
+- Derivada de la suma$$(f\pm g)'(x_0)=f'(x)\pm g'(x)$$
+- Derivada del producto$$(fg)'(x)=f'(x)g(x)+f(x)g'(x)$$
+- Derivada de la división ($\frac{f}{g}=fg^{-1}$)$$\left(\frac{f}{g}\right)'(x)=\frac{f'(x)g(x)-f(x)g'(x)}{g^2(x)}$$
+- Derivada de la composición (Regla de la cadena)
+- 
 
-- [ ] Regla de la cadena?
+- [ ] Cambiar el autocompletado para que '' salga ' y $ salga $\$
 # Derivadas de funciones elementales 
-- [ ] Aprenderlo!
+### Polinomios
+$$\frac{d}{dx}\left(x^n \right)=nx^{n-1}$$
+### Logaritmos
+$$\frac{d}{dx}\left( \log_kx\right)=\frac{1}{x}\log_ke$$
+### Exponencial
+$$\frac{d}{dx}\left(k^x\right)=k^x\log k$$
+### Seno
+$$\frac{d}{dx}\left(\sin x\right)=\cos x$$
+### Coseno
+$$\frac{d}{dx}\left(\cos x\right)=-\sin x$$
+### Tangente
+$$\frac{d}{dx}\left(\tan x\right)=\frac{d}{dx}\left(\frac{\sin x}{\cos x}\right)=\frac{1}{\cos^2x}$$
+### Arco seno
+$$\frac{d}{dx}\left(\arcsin x\right)=\frac{1}{\sqrt{1-x^2}}$$
+### Arco coseno
+$$\frac{d}{dx}\left(\arcsin x\right)=\frac{-1}{\sqrt{1-x^2}}$$
+### Arco tangente
+$$\frac{d}{dx}\left(\arcsin x\right)=\frac{1}{1+x^2}$$
+
+
+
+
 
 ## Derivada de la función inversa
 - [ ] Latex

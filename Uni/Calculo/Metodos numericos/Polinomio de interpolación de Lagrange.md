@@ -35,6 +35,25 @@ Podemos ver que para $x=x_0$ el polinomio devuelve $y_0$
 Para el siguiente punto $(x_1,y_1)$ el polinomio $P_1(x)$ será $$P_1(x)=P_0(x)+a_1(x-x_0)$$
 Donde a está dada por la siguiente formula$$a_k=\frac{y_k-P_{k-1}(x_k)}{(x_k-x_0)(x_k-x_1)(x_k-x_2)...(x_k-x_{k-1})}$$
 Que se puede sacar de despejar $a_k$, en el caso de $a_1$ queda así$$a_1=\frac{y_1-y_0}{(x-x_0)}$$
+Haciendo una tabla para ordenar los calculos 
+$$\begin{array}{c|ccccc}
+x_0 & {\color{red} y_0}  & {\color{red} [y_0 , y_1]} & {\color{red} [y_0 , y_1 , y_2]}  &  \ldots & {\color{red} [y_0,y_1,\ldots,y_n]}  \\[1ex]
+x_1 & y_1  & [y_1 , y_2]  & [y_1 , y_2 , y_3] & \ldots &  \\[1ex]
+x_2 & y_2  & [y_2 , y_3]  & [y_2 , y_3 , y_4] & \ldots &  \\[1ex]
+\ldots & \ldots & \ldots & \ldots & \ldots &  \\[1ex]
+x_{n-1} & y_{n-1}  & [y_{n-1} , y_n]  &  &  &  \\[1ex]
+x_n & y_n 
+\end{array}$$
+Donde: $$[y_i,y_{i+1},\ldots,y_{i+k}] = 
+    \displaystyle\frac{[y_i,y_{i+1},...,y_{i+k-1}]-[y_{i+1},...,y_{i+k}]}{x_i-x_{i+k}} , \, \forall 
+    i=0,1,...,n-k \, .$$
+Por ultimo, una vez calculados los coeficientes el polinomio final queda asi:
+$$\begin{split}
+\begin{array}{lcl}
+p_n(x)\, &=& [y_0] \, +\, [y_0,y_1]\, (x-x_0) \, +\, [y_0,y_1,y_2]\, (x-x_0)(x-x_1) \, +  \\
+         & & \ldots +\, [y_0,y_1,\ldots,y_n]\, (x-x_0)(x-x_1)\ldots(x-x_{n-1}).
+\end{array}
+\end{split}$$
+Para añadir un nuevo punto es tan sencillo como añadirlo a la tabla y hacer la ultima diagonal de diferencias divididas
 
-- [ ] Continuar, añadir lo de la tabla
-- [ ] Mirar el codigo python del profe
+- [ ] #Ejercicio Mirar el codigo python del profe
