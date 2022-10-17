@@ -12,47 +12,43 @@ $$ P:(a,f(a))\qquad t=f'(a)x\ +\ f(a)-f'(a)a$$
 - Usando los limites anteriores pero se estudian por el lado correspondiente
 - Para que una funcion sea derivable en un punto sus derivadas laterales deben coincidir
 
-# Propiedades de la derivacion
-- $f\ no\ continua\ en\ x_0\Rightarrow f \ no\ derivable\ en\ x_0$
-- Derivada del producto por un escalar$$(\lambda f)'(x)=\lambda f'(x)$$
-- Derivada de la suma$$(f\pm g)'(x_0)=f'(x)\pm g'(x)$$
-- Derivada del producto$$(fg)'(x)=f'(x)g(x)+f(x)g'(x)$$
-- Derivada de la división ($\frac{f}{g}=fg^{-1}$)$$\left(\frac{f}{g}\right)'(x)=\frac{f'(x)g(x)-f(x)g'(x)}{g^2(x)}$$
-- Derivada de la composición (Regla de la cadena)
-- 
+> [!r] # Propiedades de la derivacion
+> - $f\ no\ continua\ en\ x_0\Rightarrow f \ no\ derivable\ en\ x_0$
+> - Derivada del producto por un escalar$$(\lambda f)'(x)=\lambda f'(x)$$
+> - Derivada de la suma$$(f\pm g)'(x_0)=f'(x)\pm g'(x)$$
+> - Derivada del producto$$(fg)'(x)=f'(x)g(x)+f(x)g'(x)$$
+> - Derivada de la división ($\frac{f}{g}=fg^{-1}$)$$\left(\frac{f}{g}\right)'(x)=\frac{f'(x)g(x)-f(x)g'(x)}{g^2(x)}$$
+> - Derivada de la composición (Regla de la cadena)
 
-- [ ] Cambiar el autocompletado para que '' salga ' y $ salga $\$
-# Derivadas de funciones elementales 
-### Polinomios
-$$\frac{d}{dx}\left(x^n \right)=nx^{n-1}$$
-### Logaritmos
-$$\frac{d}{dx}\left( \log_kx\right)=\frac{1}{x}\log_ke$$
-### Exponencial
-$$\frac{d}{dx}\left(k^x\right)=k^x\log k$$
-### Seno
-$$\frac{d}{dx}\left(\sin x\right)=\cos x$$
-### Coseno
-$$\frac{d}{dx}\left(\cos x\right)=-\sin x$$
-### Tangente
-$$\frac{d}{dx}\left(\tan x\right)=\frac{d}{dx}\left(\frac{\sin x}{\cos x}\right)=\frac{1}{\cos^2x}$$
-### Arco seno
-$$\frac{d}{dx}\left(\arcsin x\right)=\frac{1}{\sqrt{1-x^2}}$$
-### Arco coseno
-$$\frac{d}{dx}\left(\arcsin x\right)=\frac{-1}{\sqrt{1-x^2}}$$
-### Arco tangente
-$$\frac{d}{dx}\left(\arcsin x\right)=\frac{1}{1+x^2}$$
+> [!important] # Derivadas de funciones elementales 
+> ### Polinomios
+> $$\frac{d}{dx}\left(x^n \right)=nx^{n-1}$$
+> ### Logaritmos
+> $$\frac{d}{dx}\left( \log_kx\right)=\frac{1}{x}\log_ke$$
+> ### Exponencial
+> $$\frac{d}{dx}\left(k^x\right)=k^x\log k$$
+> ### Seno
+> $$\frac{d}{dx}\left(\sin x\right)=\cos x$$
+> ### Coseno
+> $$\frac{d}{dx}\left(\cos x\right)=-\sin x$$
+> ### Tangente
+> $$\frac{d}{dx}\left(\tan x\right)=\frac{d}{dx}\left(\frac{\sin x}{\cos x}\right)=\frac{1}{\cos^2x}$$
+> ### Arco seno
+> $$\frac{d}{dx}\left(\arcsin x\right)=\frac{1}{\sqrt{1-x^2}}$$
+> ### Arco coseno
+> $$\frac{d}{dx}\left(\arcsin x\right)=\frac{-1}{\sqrt{1-x^2}}$$
+> ### Arco tangente
+> $$\frac{d}{dx}\left(\arcsin x\right)=\frac{1}{1+x^2}$$
+> 
+> 
 
-
-
-
-
-## Derivada de la función inversa
-- [ ] Latex
-
+> [!b] ## Derivada de la función inversa
+> Sea $f:(a,b)\to\mathbb{R}$, $x_0\in(a,b)$, si $f$ es derivable en $x_0$, $f'(x_0)\neq0$ y $f^{-1}$ existe, entonces $f^{-1}$ es derivable $$(f^{-1})'(f(x_0))=\frac{1}{f'(x_0)}$$$$(f^{-1})'(y_0)=\frac{1}{f'(f^{-1}(y_0))}$$    
 # Derivación implicita
-- Funciones de forma f(x, y) donde ninguna variable se puede despejar
-- [ ] Hacer derivacion a mano :)
-- [ ] Latex
+Una ecuación implicita es de la forma $F(x,y)=0$, donde la $x$ y la $y$ estan mezcladas y no se pueden despejar para llegar a una ecuación explícita $y=f(x)$ 
+
+Para derivar una ecuación implicita se deriva de forma normal, añadiendo $y\ '$    
+en los terminos en los que haya de derivar y $$(xy)'=y+xy\ '$$
 # Derivación logaritmica
 - [ ] Hacer la derivacion, empezar con $y(x)=f(x)^{g(x)}$ y tomar logs a ambos lados
 

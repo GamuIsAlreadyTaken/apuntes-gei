@@ -18,5 +18,3 @@ Entorno, conjunto de hechos y factores con los que una organizacion interacciona
 - Fortalezas
 - Oportunidades
 
-
-- [ ] Poner dentro del archivo del plan de empresa
