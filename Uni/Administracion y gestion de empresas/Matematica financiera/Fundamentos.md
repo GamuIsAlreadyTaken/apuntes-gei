@@ -60,3 +60,26 @@ $$
 $$
 c_0=c_n\ (1+i_m)^{-n\ m}
 $$
+
+
+
+# Rentas
+Sucesión de capitales(Terminos de renta)
+- Por cuantía
+	- Constantes
+	- Variables
+- Por el vencimiento de los terminos
+	- Prepagables
+	- Pospagables
+- Por la duración
+	- Temporales
+	- Perpetuasn
+
+### Valor actual
+$$\sum_{t=1}^{n}C_t(1+i)^{-t}$$
+Para rentas constantes se simplifica a: $$C\frac{1-(1+i)^{-n}}{i}=C\varrho_{ ni}$$
+### Valor final
+$$\sum_{t=1}^{n}C_t(1+i)^{n-t}$$
+Para rentas constantes se simplifica a: $$C\frac{(1+i)^n-1}{i}=\varsigma_{ni}$$
+
+
