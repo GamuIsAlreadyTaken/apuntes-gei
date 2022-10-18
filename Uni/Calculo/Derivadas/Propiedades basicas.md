@@ -44,6 +44,7 @@ $$ P:(a,f(a))\qquad t=f'(a)x\ +\ f(a)-f'(a)a$$
 
 > [!b] ## Derivada de la función inversa
 > Sea $f:(a,b)\to\mathbb{R}$, $x_0\in(a,b)$, si $f$ es derivable en $x_0$, $f'(x_0)\neq0$ y $f^{-1}$ existe, entonces $f^{-1}$ es derivable $$(f^{-1})'(f(x_0))=\frac{1}{f'(x_0)}$$$$(f^{-1})'(y_0)=\frac{1}{f'(f^{-1}(y_0))}$$    
+
 # Derivación implicita
 Una ecuación implicita es de la forma $F(x,y)=0$, donde la $x$ y la $y$ estan mezcladas y no se pueden despejar para llegar a una ecuación explícita $y=f(x)$ 
 

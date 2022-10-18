@@ -8,4 +8,3 @@
 
 
 - [ ] Mirar GPUL
-- [ ] Mirar CUFIE

@@ -14,11 +14,6 @@ Prueba mixta 70%
 >Moodle
 >Teams
 
-> [!info] Tutorias
-Antes y despues de clase
-
-> [!bug] Raquel
-> Es una chica preciosa
 
 Temas: 
 - La empresa y el empresario en la sociedad actual
