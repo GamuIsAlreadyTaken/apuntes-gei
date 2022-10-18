@@ -4,10 +4,10 @@ Para calcularla calculamos la pendiente de la recta que contiene 2 puntos cuya d
 $$
 f'(x_0) = \lim_{h\to0}\frac{f(x_0+h) - f(x_0)}{h} =f'(x_0) = \lim_{x\to x_0}\frac{f(x)-f(x_0)}{x-x_0}
 $$
-## Ecuación de la recta tangente
-En un punto $P$ la tangente a $f$ es dada por:
-$$ P:(a,f(a))\qquad t=f'(a)x\ +\ f(a)-f'(a)a$$
-
+> [!info] ## Ecuación de la recta tangente
+> En un punto $P$ la tangente a $f$ es dada por:
+> $$ P:(a,f(a))\qquad t=f'(a)x\ +\ f(a)-f'(a)a$$
+> 
 ## Derivadas laterales
 - Usando los limites anteriores pero se estudian por el lado correspondiente
 - Para que una funcion sea derivable en un punto sus derivadas laterales deben coincidir

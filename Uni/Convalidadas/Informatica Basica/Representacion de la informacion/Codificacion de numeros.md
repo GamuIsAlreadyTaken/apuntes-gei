@@ -13,6 +13,5 @@
 	- Para cambiar de signo se invierten todos los bits
 	- Los carrys de salida se suman encima
 - Complemento al 2
-- Exceso ak ? 
-- [ ] rellenar exceso a ???
+- Exceso a k
 

@@ -11,6 +11,4 @@ Temario:
 - Arquitectura basica de un computado
 
 
-> [!error] Convalidado ?
-
 

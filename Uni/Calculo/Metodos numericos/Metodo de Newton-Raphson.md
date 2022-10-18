@@ -18,3 +18,4 @@ mismo criterio de parada que el del metodo de dicotomia
 
 ## Metodo de Newton-Raphson
 - Metodo mas eficiente para calcular raices de funciones
+- [ ] Seguir con esto
