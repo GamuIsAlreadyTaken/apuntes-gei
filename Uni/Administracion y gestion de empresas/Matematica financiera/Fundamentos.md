@@ -73,7 +73,7 @@ Sucesión de capitales(Terminos de renta)
 	- Pospagables
 - Por la duración
 	- Temporales
-	- Perpetuasn
+	- Perpetuas
 
 ### Valor actual
 $$\sum_{t=1}^{n}C_t(1+i)^{-t}$$

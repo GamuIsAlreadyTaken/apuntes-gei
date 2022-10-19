@@ -8,19 +8,21 @@ $$
 > En un punto $P$ la tangente a $f$ es dada por:
 > $$ P:(a,f(a))\qquad t=f'(a)x\ +\ f(a)-f'(a)a$$
 > 
-## Derivadas laterales
-- Usando los limites anteriores pero se estudian por el lado correspondiente
-- Para que una funcion sea derivable en un punto sus derivadas laterales deben coincidir
-
+^Recta-tangente
+> [!g] ## Derivadas laterales
+> - Usando los limites anteriores pero se estudian por el lado correspondiente
+> - Para que una funcion sea derivable en un punto sus derivadas laterales deben coincidir
+^Derivadas-laterales
 > [!r] # Propiedades de la derivacion
 > - $f\ no\ continua\ en\ x_0\Rightarrow f \ no\ derivable\ en\ x_0$
-> - Derivada del producto por un escalar$$(\lambda f)'(x)=\lambda f'(x)$$
-> - Derivada de la suma$$(f\pm g)'(x_0)=f'(x)\pm g'(x)$$
-> - Derivada del producto$$(fg)'(x)=f'(x)g(x)+f(x)g'(x)$$
-> - Derivada de la división ($\frac{f}{g}=fg^{-1}$)$$\left(\frac{f}{g}\right)'(x)=\frac{f'(x)g(x)-f(x)g'(x)}{g^2(x)}$$
-> - Derivada de la composición (Regla de la cadena)
-
+> - Derivada del producto por un escalar$$(\lambda f)'=\lambda f'$$
+> - Derivada de la suma$$(f\pm g)'=f'\pm g'$$
+> - Derivada del producto$$(fg)'=f'g+fg'$$
+> - Derivada de la división ($\frac{f}{g}=fg^{-1}$)$$\left(\frac{f}{g}\right)'=\frac{f'g-fg'}{g^2}$$
+> - Derivada de la composición (Regla de la cadena) $$(g\circ f)'=g\,'(f)f'$$
+^Propiedades-de-la-derivacion
 > [!important] # Derivadas de funciones elementales 
+> Cuando la funciones estan compuestas con otras se aplica la regla de la cadena
 > ### Polinomios
 > $$\frac{d}{dx}\left(x^n \right)=nx^{n-1}$$
 > ### Logaritmos
@@ -41,43 +43,66 @@ $$
 > $$\frac{d}{dx}\left(\arcsin x\right)=\frac{1}{1+x^2}$$
 > 
 > 
-
+^Derivadas-elementales
 > [!b] ## Derivada de la función inversa
 > Sea $f:(a,b)\to\mathbb{R}$, $x_0\in(a,b)$, si $f$ es derivable en $x_0$, $f'(x_0)\neq0$ y $f^{-1}$ existe, entonces $f^{-1}$ es derivable $$(f^{-1})'(f(x_0))=\frac{1}{f'(x_0)}$$$$(f^{-1})'(y_0)=\frac{1}{f'(f^{-1}(y_0))}$$    
+^Derivada-de-la-inversa
+> [!y] # Derivación implicita
+> Una ecuación implicita es de la forma $F(x,y)=0$, donde la $x$ y la $y$ estan mezcladas y no se pueden despejar para llegar a una ecuación explícita $y=f(x)$ 
+> 
+> Para derivar una ecuación implicita se deriva de forma normal, añadiendo $y\ '$    
+> en los terminos en los que haya que derivar y $$(xy)'=y+xy\ '$$
+^Derivacion-implicita
+> [!b] # Derivación logaritmica
+> Sean $y$, $g$, y $f$ funciones de $x$ 
+> $$y\, '=\left(g\,'\log f+g\frac{f'}f\right)y$$
+^Derivacion-logaritmica
 
-# Derivación implicita
-Una ecuación implicita es de la forma $F(x,y)=0$, donde la $x$ y la $y$ estan mezcladas y no se pueden despejar para llegar a una ecuación explícita $y=f(x)$ 
+> [!r] Operaciones con limites infinitos
+> Al operar con limites puede ocurrir que aparezcan infinitos, para operar con ellos se utilizan las siguientes propiedades
+> - Suma
+> 	- $\lambda + \infty = +\infty$
+> 	- $\lambda - \infty = -\infty$
+> 	- $+\infty + \infty = +\infty$
+> 	- $-\infty - \infty = -\infty$
+> - Multiplicación
+> 	- $\lambda * \pm \infty = \pm\infty, \forall\lambda>0$
+> 	- $\lambda * \pm \infty = \mp\infty, \forall\lambda<0$
+> 	- $(\infty)(\infty) = (- \infty)(-\infty)=\infty$
+> 	- $(\infty)(-\infty)=-\infty$
+> - División
+> 	- $\dfrac{\lambda}{\pm\infty}=0, \lambda\neq0$
+> 	- $\dfrac{\lambda\ \text{ o }\  \infty}{0^\pm}=\pm\infty$ (Aplicando la regla de los signos)
+> 	- $\dfrac{0}{\pm\infty}=0$
+> - Potencias
+> 	- $0^{\infty}=0$
+> 	- $0^{-\infty}=\infty$
+> 	- $\infty^\infty=\infty$
+> 	- $\infty^{-\infty}=0$
+> 	- $-\infty^\infty=\not\exists$
+> 
 
-Para derivar una ecuación implicita se deriva de forma normal, añadiendo $y\ '$    
-en los terminos en los que haya de derivar y $$(xy)'=y+xy\ '$$
-# Derivación logaritmica
-- [ ] Hacer la derivacion, empezar con $y(x)=f(x)^{g(x)}$ y tomar logs a ambos lados
+> [!b] Indeterminaciones
+> Tambien puede ocurrir que el resultado sea indeterminado
+> - $\dfrac00$
+> - $\dfrac\infty\infty$
+> - $0(\infty)$
+> - $\infty-\infty$
+> - $1^{\pm\infty}$
+> - $0^0$
+> - $\pm\infty^0$
 
-
-## Regla de l'Hôpital
-- 2 funciones derivables en el rango - [ ] completar
-- Si ambos limites en X$_0$ entonces
-- Se puede aplicar varias veces - [ ] mirar lhopital en sus apuntes
-
-
-### Suma
-- k + oo -> oo
-- ...
-- [ ] Seguir con esto
-### Multiplicación
-- k * oo -> oo
-- k * -oo -> -oo
-### División
-- [ ] Rellenar identidades
-
-el limite es 0$^+$ si se queda por encima del 0, 0$^-$ si se queda por debajo ...
-
-### Indeterminaciones
-- 0/0
-- oo/oo
-- o+-oo
-
-
-- [ ] Mirar el codigo de numpy de polinomio de interpolacion de lagrange
-
-
+> [!important] Regla de l'Hôpital:
+> Para resolver algunas de estas indeterminaciones se puede usar la 
+> Sea $x_0\in\mathbb{R}$ y $f$ y $g$ funciones derivables en $(x_0-r, x_0)\cup(x_0, x_0+r)$. Si $\lim\limits_{x\to x_0}f(x)=\lim\limits_{x\to x_0}g(x)$ $$\lim\limits_{x\to x_0}\dfrac{f'(x)}{g\,'(x)}=\lim\limits_{x\to x_0}\dfrac{f(x)}{g(x)}$$
+> No ocurre lo mismo si es al reves.
+> Si vuelve a salir una indeterminación se puede repetir.
+> 
+> Sirve para resolver las siguientes indeterminaciones: 
+> - $0(\infty)$
+> - $\infty-\infty$
+> - $1^{\pm\infty}$
+> - $0^0$
+> - $\pm\infty^0$
+> 
+^Regla-de-lhopital

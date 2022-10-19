@@ -34,7 +34,7 @@ $$P_0(x) = y_0$$
 Podemos ver que para $x=x_0$ el polinomio devuelve $y_0$
 Para el siguiente punto $(x_1,y_1)$ el polinomio $P_1(x)$ será $$P_1(x)=P_0(x)+a_1(x-x_0)$$
 Donde a está dada por la siguiente formula$$a_k=\frac{y_k-P_{k-1}(x_k)}{(x_k-x_0)(x_k-x_1)(x_k-x_2)...(x_k-x_{k-1})}$$
-Que se puede sacar de despejar $a_k$, en el caso de $a_1$ queda así$$a_1=\frac{y_1-y_0}{(x-x_0)}$$
+Que se puede sacar de despejar $a_k$, en el caso de $a_1$ queda así$$a_1=\frac{y_1-y_0}{(x_1-x_0)}$$
 Haciendo una tabla para ordenar los calculos 
 $$\begin{array}{c|ccccc}
 x_0 & {\color{red} y_0}  & {\color{red} [y_0 , y_1]} & {\color{red} [y_0 , y_1 , y_2]}  &  \ldots & {\color{red} [y_0,y_1,\ldots,y_n]}  \\[1ex]
@@ -57,3 +57,6 @@ p_n(x)\, &=& [y_0] \, +\, [y_0,y_1]\, (x-x_0) \, +\, [y_0,y_1,y_2]\, (x-x_0)(x-x
 Para añadir un nuevo punto es tan sencillo como añadirlo a la tabla y hacer la ultima diagonal de diferencias divididas
 
 - [ ] #Ejercicio Mirar el codigo python del profe
+- [ ] #Ejercicio Programar ambos metodos
+- [ ] #Ejercicio Hacerlo a mano, ambos metodos
+- [ ] #Ejercicio Implementar la formula de newton de delante a atras

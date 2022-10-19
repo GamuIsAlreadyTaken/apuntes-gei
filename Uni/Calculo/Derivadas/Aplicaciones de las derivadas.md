@@ -1,6 +1,11 @@
 # Extremos relativos y absolutos
-### Relativos
-- [ ] latex, maximo, minimo relativo
+Dado un intervalo abierto $A\subset\mathbb{R}$ y una aplicación $f:A\to\mathbb{R}$ 
+$f$ presenta una **maximo relativo** en $a\in A$ si y solo si $$\exists h > 0 \big/ f(x)\leq f(a),\qquad \forall x\in(a-h,a+h)$$
+De la misma forma, existe un **minimo relativo** en $a\in A$ si y solo si $$\exists h > 0 \big/ f(x)\geq f(a),\qquad \forall x\in(a-h,a+h)$$
+**Extremo relativo** hace referencia a uno de estos dos casos
+
+### Puntos criticos
+Si en un punto $a$, $f'(a)=0$ entonces $a$ es un punto critico o estacionario de $f$
 
 Mirando los puntos criticos(estacionarios) f'(a) = 0 y los extremos relativos(discontinuidades no derivables de f)
 - [ ] Criterio de la primera derivada
@@ -51,3 +56,7 @@ Cuando cambia de a a b
 Si la derivada 2º de f es positiva entonces f es convexa
 Si la derivada 2º de f es negativa entonces f es concava
 - [ ] Imagen
+
+
+
+- [ ] Practicar el boletin 2
