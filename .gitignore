@@ -1,4 +1,6 @@
 **/*
+
+
 # Config
 !.obsidian
 !.obsidian/snippets
@@ -7,6 +9,11 @@
 # Data
 !Uni
 !Uni/**
+
+!Code
+!Code/Calculo
+!Code/Calculo/**
+
 
 # Git
 !.gitignore
