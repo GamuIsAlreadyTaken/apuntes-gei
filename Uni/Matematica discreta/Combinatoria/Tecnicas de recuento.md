@@ -19,6 +19,16 @@ Dado un conjunto $A= \{a_1,a_2,a_3 ...\}$ las permutaciones del $A = S_A$
 
 ## Variaciones ordinarias
 Las variaciones ordinarias de $n$ elementos tomados de $m$ en $m$ $$V(n,m)=\frac{n!}{(n-m)!}$$
+## Variaciones con repetición
+Variaciones de $m$ elementos repetidas $n$ veces
+$$VR(m,n)=m^n$$
 
 ## Binomio de Newton
 La eleccion de n elemntos de un conjunto de m elementos es $$C(n,m)={\displaystyle {\tbinom {n}{k}}}=\frac{n!}{m!(n-m)!}$$
+
+## Permutaciones circulares
+De cuantas formas pueden ordenarse $m$ elementos de manera circular, marcamos a un elemento como punto de referencia y vemos como ordenar el resto
+$$PC(m)=(m-1)!$$
+
+
+
