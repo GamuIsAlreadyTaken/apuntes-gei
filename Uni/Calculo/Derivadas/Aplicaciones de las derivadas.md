@@ -9,6 +9,13 @@ Si en un punto $a$, $f'(a)=0$ entonces $a$ es un punto critico o estacionario de
 
 Mirando los puntos criticos(estacionarios) f'(a) = 0 y los extremos relativos(discontinuidades no derivables de f)
 - [ ] Criterio de la primera derivada
+## Criterio de la primera derivada
+Para un punto $x_0$ y una funcion $f$ derivable cerca de $x_0$ 
+- Si $f'(x) < 0, \forall x<x_0$ y $f'(x)>0, \forall x>x_0$ la función presenta un minimo relativo
+- Si $f'(x) > 0, \forall x<x_0$ y $f'(x)<0, \forall x>x_0$ la función presenta un maximo relativo
+
+Si $f$ presenta un extremo relativo en $a$ entonces $f'(a) = 0$
+<img src="https://luishervella.github.io/JB_Calculo1_UDC/_images/cap_deriv_ext_criticos.jpg" class="center">
 
 extremo relativo => punto critico, punto critico !=> extremo relativo
 
