@@ -17,9 +17,9 @@ $$
 Para una nube de 4 puntos, cada polinomio fundamental quedaría asi
 
 $$l_0(x) = \frac{(x-x_1)(x-x_2)(x-x_3)}{(x_0-x_1)(x_0-x_2)(x_0-x_3)}$$
-$$l_1(x) = \frac{(x-x_1)(x-x_2)(x-x_3)}{(x_1-x_0)(x_1-x_2)(x_1-x_3)}$$
-$$l_2(x) = \frac{(x-x_1)(x-x_2)(x-x_3)}{(x_2-x_0)(x_2-x_1)(x_2-x_3)}$$
-$$l_3(x) = \frac{(x-x_1)(x-x_2)(x-x_3)}{(x_3-x_0)(x_3-x_2)(x_3-x_0)}$$
+$$l_1(x) = \frac{(x-x_0)(x-x_2)(x-x_3)}{(x_1-x_0)(x_1-x_2)(x_1-x_3)}$$
+$$l_2(x) = \frac{(x-x_0)(x-x_1)(x-x_3)}{(x_2-x_0)(x_2-x_1)(x_2-x_3)}$$
+$$l_3(x) = \frac{(x-x_0)(x-x_1)(x-x_2)}{(x_3-x_0)(x_3-x_2)(x_3-x_0)}$$
 Para obtener el polinomio final simplemente multiplicamos multiplicamos cada polinomio con su punto respectivo y lo sumamos todo
 $$p(x) = y_0l_0(x)+y_1l_1(x)+y_2l_2(x)+y_3l_3(x)$$
 
