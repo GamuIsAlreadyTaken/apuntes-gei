@@ -50,3 +50,11 @@ $$\binom mr = \binom m{m-r}$$
 $$\binom m1=m$$
 #### Formula de Stieffel
 $$\binom mr + \binom m{r+1} = \binom{m+1}{r+1}$$
+
+## Multinomio de Leibniz
+$$(x_1 + x_2+...+x_k)^n = \sum_{n_1+n_2+...+n_k=n}PR(n;n_1,n_2,...n_k)x_1^{n_1} x_2^{n_2}...x_k^{n_k}$$
+
+
+
+
+
