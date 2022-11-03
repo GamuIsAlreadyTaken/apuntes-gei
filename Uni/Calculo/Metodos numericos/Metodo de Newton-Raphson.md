@@ -2,7 +2,7 @@ Metodo para encontrar raices de funciones de forma mas eficiente que [[Metodo de
 
 Se basa en que la función debe parecerse a la recta tangente en un punto, por lo que la raiz de la función tiene que estar cerca de la raiz de la recta tangente
 <img src="https://luishervella.github.io/JB_Calculo1_UDC/_images/cap_der_newton.png" class="center">
-Dado un punto de inicio $x_0 \in (a,b)$ la raiz de la [[Propiedades basicas#^Recta-tangente|tangente]] es: $$x_1=x_0-\dfrac{f(x_0)}{f'(x_0)} \qquad f'(x_0)\neq0$$
+Dado un punto de inicio $x_0 \in (a,b)$ la raiz de la [[Uni/Calculo/Derivadas/Propiedades basicas#^Recta-tangente|tangente]] es: $$x_1=x_0-\dfrac{f(x_0)}{f'(x_0)} \qquad f'(x_0)\neq0$$
 Iterando con la formula anterior tenemos que $$x_{k+1}=x_k-\dfrac{f(x_k)}{f'(x_k)} \qquad f'(x_k)\neq0$$
 
 
