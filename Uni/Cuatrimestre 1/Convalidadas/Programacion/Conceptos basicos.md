@@ -25,7 +25,6 @@ Formas para expresar algoritmos
 - Matematica formal
 
 ## Diagramas de flujo
-- [ ] Meter imagenes
 - Terminal, inicio o fin (elipse)
 - Flujo, direccion (flecha)
 - Instruccion (rectangulo)

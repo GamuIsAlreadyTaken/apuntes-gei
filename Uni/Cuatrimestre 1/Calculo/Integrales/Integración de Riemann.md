@@ -6,7 +6,5 @@ Siendo $$M_i = \underset{x_{i-1} \leq x \leq x_i}{\sup} f(x),$$$$m_i = \underset
 - Suma superior $$U (\mathcal P,f) = \overset{n}{\underset{i=1}{\sum}} \, M_i (x_i - x_{i-1}).$$
 - Suma inferior $$L (\mathcal P,f) = \overset{n}{\underset{i=1}{\sum}} \, m_i (x_i - x_{i-1}).$$
 Una funcion es integrable por Riemann cuando 
-- [ ] Continuar
 
 # Integral de Riemann
-- [ ] Latex

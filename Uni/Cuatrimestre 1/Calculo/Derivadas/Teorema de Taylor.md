@@ -10,8 +10,6 @@ Aproximar una función con un polinomio
 
 Maclauring == x_0 = 0
 
-- [ ] Practicar en casa #Ejercicio 
-- [ ] Hacerlo en python, por teams hay codigo (sp.series(-,-,-,-), f.diff(var, gradoDerivada))
 
 p(x) = 5 + (x+1)^2 + 3(x+1)^3 es el polinomio de taylor de tercer orden centrado en x_0=-1 de una función f, calcula 
 f(-1) = 5, 

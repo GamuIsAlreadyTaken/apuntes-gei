@@ -56,7 +56,3 @@ p_n(x)\, &=& [y_0] \, +\, [y_0,y_1]\, (x-x_0) \, +\, [y_0,y_1,y_2]\, (x-x_0)(x-x
 \end{split}$$
 Para añadir un nuevo punto es tan sencillo como añadirlo a la tabla y hacer la ultima diagonal de diferencias divididas
 
-- [x] #Ejercicio Mirar el codigo python del profe
-- [ ] #Ejercicio Programar ambos metodos
-- [ ] #Ejercicio Hacerlo a mano, ambos metodos
-- [x] #Ejercicio Implementar la formula de newton de delante a atras

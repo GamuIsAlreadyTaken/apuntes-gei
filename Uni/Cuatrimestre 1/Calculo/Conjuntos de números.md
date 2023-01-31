@@ -73,7 +73,6 @@ Y la potenciacion:
 #### Propiedad(Formula de De Moivre)$$\left(\cos{x}+i\sin{x}\right)^n=\cos{nx}+i\sin{nx}$$
 Raizes de un numero complejo (Para mañana)
 
-- [ ] #Ejercicio Hacer los ejercicios del jupyter notebook
 
 ---
 

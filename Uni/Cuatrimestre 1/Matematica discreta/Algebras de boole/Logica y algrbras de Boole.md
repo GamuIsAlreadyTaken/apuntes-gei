@@ -51,7 +51,6 @@ $$\neg (p\vee q) =\neg p\wedge\neg q$$
 - Si $p\longleftrightarrow q$ es una tautologia decimos que $p$ y $q$ son equivalentes$$\text{Si }p\longleftrightarrow q\text{ es }\top,\quad p\iff q$$
 - Si $p\longrightarrow q$ es una tautologia decimos que p implica logicamente a q$$\text{Si }p\longrightarrow q\text{ es }\top,\quad p\implies q$$
 ### Tablas semanticas (Arbol semantico)
-- [ ] Mirar tablas semanticas de logica
 
 
 Un conjunto de proposiciones es **consistente** si la conjuncion de todas es una contingencia (Admite un modelo y por lo tanto, un modelo comun a todas)
@@ -60,6 +59,4 @@ Un conjunto de proposiciones es **consistente** si la conjuncion de todas es una
 ### Modelos de interpretacion
 Si cuando las primitivas son verdad la proposicion es verdad se trata de una **interpretacion modelo**
 Si la proposicion es mentira se trata de un **contraejemplo**
-- [ ] Mirar interpretaciones modelo
 
-- [ ] Separar esta pagina en capitulos(distintas notas)

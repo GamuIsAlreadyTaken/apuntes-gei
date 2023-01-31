@@ -54,4 +54,3 @@ Temas:
 - El subsistema de informacion empresarial
 	- La informacion como activo empresarial
 	- El sistema de informacion empresarial: concepto y funciones 
-	- [ ] poner el ultimo

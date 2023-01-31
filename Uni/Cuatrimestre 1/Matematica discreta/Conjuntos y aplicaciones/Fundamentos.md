@@ -52,7 +52,6 @@ $$Si\quad A\subset B\wedge B\subset A\Rightarrow A = B$$
 - B es el conjunto final
 - La **imagen** esta compuesta por todos los elementos de B que participan en la relación$$f_*(A)=Img\ f$$
 #### Aplicación reciproca
-- [ ] TODO
 ### Tipos de aplicaciones
 - Inyectivas, si cada elemento de A tienen una sola imagen en B, (Estas funciones son estrictamente crecientes/decrecientes)
 	- En una composición inyectiva solo la primera función tiene que ser inyectiva

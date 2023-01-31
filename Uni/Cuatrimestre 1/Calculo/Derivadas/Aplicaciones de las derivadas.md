@@ -8,7 +8,6 @@ De la misma forma, existe un **minimo relativo** en $a\in A$ si y solo si $$\exi
 Si en un punto $a$, $f'(a)=0$ entonces $a$ es un punto critico o estacionario de $f$
 
 Mirando los puntos criticos(estacionarios) f'(a) = 0 y los extremos relativos(discontinuidades no derivables de f)
-- [ ] Criterio de la primera derivada
 ## Criterio de la primera derivada
 Para un punto $x_0$ y una funcion $f$ derivable cerca de $x_0$ 
 - Si $f'(x) < 0, \forall x<x_0$ y $f'(x)>0, \forall x>x_0$ la función presenta un minimo relativo
@@ -19,32 +18,18 @@ Si $f$ presenta un extremo relativo en $a$ entonces $f'(a) = 0$
 
 extremo relativo => punto critico, punto critico !=> extremo relativo
 
-- [ ] criterio de la segunda derivada
 
-- [ ] Criterio de la derivada n-esima
 
 ### Absolutos
-- [ ] Latex supremo e infimo(maximo y minimos absolutos)
-
 Puntos criticos de la funcion
 Puntos donde f no es derivable
 Los extremos del intervalo
 
-- [ ] Dibujar y derivar $\frac{1}{2}\left(\sin^{2}\left(x\right)+\cos x\right)+2\sin x-x$
 
 # Teorema de Rolle y Lagrange
-- [ ] Latex
-Si los extremos de un intervalo continuo son iguales existe un punto en el que la pendiente es 0 (algo con $\xi$)
-
-- [ ] Añadir propiedades
 
 
 
-- [ ] Preguntar por que no son 3 raizes
-
-- [ ] Propiedades de funciones
-
-- [ ] #Ejercicio Hacer algún ejercicio a mano
 
 ## Teorema de Rolle + bolzano
 Un intervalo tiene una unica raiz en un intervalo
@@ -58,12 +43,6 @@ Una funcion es a cuando su opuesta es b
 ### Puntos de inflexion
 Cuando cambia de a a b
 
-- [ ] Propiedades
 
 Si la derivada 2º de f es positiva entonces f es convexa
 Si la derivada 2º de f es negativa entonces f es concava
-- [ ] Imagen
-
-
-
-- [ ] Practicar el boletin 2
