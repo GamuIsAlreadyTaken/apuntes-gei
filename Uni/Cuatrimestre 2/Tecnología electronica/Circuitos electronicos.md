@@ -86,6 +86,11 @@ I2 = I·R1/(R1+R2)
 
 - [ ] Latex
 
+## Generadores
+### Fuentes de tensión
+
+- [ ] Imagen de batería 
+
 
 
 
