@@ -21,5 +21,11 @@ Union de sucesos: $\cup$ (or)
 Unterseccion de sucesos: $\cap$ (and)
 Suceso complementario: A (superrallado)
 
+Sucesos compatibles: si su interseccion es != $\emptyset$ 
 - [ ] Latex...
+
+Partición de un espacio muestral: igual que una partición normal
+- La unión de todos da el espacio mustral
+- Ninguno se interseca con el resto de subconjuntos
+
 
