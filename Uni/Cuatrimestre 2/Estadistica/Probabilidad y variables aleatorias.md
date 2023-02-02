@@ -29,3 +29,14 @@ Partición de un espacio muestral: igual que una partición normal
 - Ninguno se interseca con el resto de subconjuntos
 
 
+> [!g] Definición de probabilidad
+> La probabilidad es una aplicación $P: P(\Omega)\to[0, 1]$ que cumple las siguientes condiciones:
+> - El suceso seguro tiene $P(\Omega) = 1$
+> - La probabilidad de la unión de sucesos incompatibles es igual a la suma de las probabilidades individuales $$P(A_1 \cup A_2)=P(A_1) + P(A_2)$$
+> - $P(\emptyset) = 0$
+> - $P(\overline{A}) = 1 - P(A)$
+> - $P(A\cup B) = P(A) + P(B) - P(A\cap B)$
+
+- [ ] descubrir como poner complementario de A
+
+
