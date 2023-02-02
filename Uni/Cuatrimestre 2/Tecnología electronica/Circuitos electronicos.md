@@ -41,3 +41,71 @@ S: area de la sección del resistor
 Indica como varía la energía en función del tiempo
 $$P=\dfrac{\delta W}{\delta t} = \dfrac{\delta W}{\delta q}\cdot\dfrac{\delta q}{\delta t} = V\cdot I$$
 Watts: $[W]$ 
+
+
+
+## Principio de conservación de la energía
+Sum(Pe) = Sum(Pa)
+Pe: potencia entregada (P=V·I > 0)
+Pa: potencia absorbida (P=V·I < 0)
+
+
+## Ley de Ohm
+
+V = I · R
+
+## Ley de joule
+
+Pdisipada en R = V·I [W], siempre >= 0
+
+
+## Simplificación de circuitos
+Asociación de resistencias
+
+1. En serie (Seguidas): Divisor de tensión
+
+- [ ] Añadir imagen de resistencias en serie
+v = v_1+ v_2
+v = I·R_1 + I·R_2
+V= I(R_1+R_2)
+V = I· R_eq
+R_eq = R_1 + R_2
+
+2. En paralelo (El camino se divide): Divisor de corriente
+Si la corriente da negativa significa que la dirección de esta es la contraria a la asumida
+- [ ] Imagen de resistencias en paralelo
+I = I_1 + I_2
+V/R_eq = V/R_1 + V/R_2
+V·1/R_eq = V·(1/R_1 + 1/R_2)
+
+1/R_eq = 1/R_1 + 1/R_2 = (R1 + R2)/(R1·R2)
+R_eq = (R1+R2)/(R1·R2)
+
+I1 = I·R2/(R1+R2)
+I2 = I·R1/(R1+R2)
+
+- [ ] Latex
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+> [!important] Truco
+> Marcar los puntos de mayor y menor potencial
+
+
+
+
