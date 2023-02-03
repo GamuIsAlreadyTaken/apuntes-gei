@@ -31,5 +31,5 @@ D={n\in Z \big / n|a y n|a_1 y...}
 - [ ] Algoritmo de euclides
 
 
-
+## Teorema de Bezout
 
