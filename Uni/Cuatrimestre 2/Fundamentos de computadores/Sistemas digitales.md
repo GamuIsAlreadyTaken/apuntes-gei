@@ -61,4 +61,9 @@ Las puertas lógicas en la realidad conllevan un retardo entre cambios en la ent
 Permite sumar encadenando full adders, no se usa en la realidad por que es muy lento
 - [ ] Añadir imagen
 
-
+# Restas con sumas
+Para restar numeros en complemento a 2 es tan sencillo compo hacer el opuesto del número que se quiere restar y sumar de forma normal
+- [ ] Imagen
+# Overflow
+Ocurre cuando sumamos dos números con mismo signo y el resultado es un número con otro signo
+- [ ] Imagen
