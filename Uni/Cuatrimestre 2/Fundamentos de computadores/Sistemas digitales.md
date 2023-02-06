@@ -67,3 +67,6 @@ Para restar numeros en complemento a 2 es tan sencillo compo hacer el opuesto de
 # Overflow
 Ocurre cuando sumamos dos números con mismo signo y el resultado es un número con otro signo
 - [ ] Imagen
+# Sumador/Restador
+- [ ] imagen
+
