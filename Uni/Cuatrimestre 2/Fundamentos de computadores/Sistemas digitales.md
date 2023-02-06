@@ -52,3 +52,10 @@ Las puertas logicas se pueden usar en
 ^Escala-de-integracion
 
 Las puertas lógicas en la realidad conllevan un retardo entre cambios en la entrada y la salida, esto puede dar lugar a errores en el resultado
+
+# Half adder
+- XOR
+- AND
+- [ ] Añadir imagen
+# Full adder
+
