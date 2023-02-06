@@ -140,6 +140,7 @@ Se pueden sacar (numero de nodos - 1) de ecuaciones linealmente independientes
 Sumatorio de las caidas de potencial en un bucle tienen que ser igual a 0
 $$\sum V_{bucle} = 0$$
 Se pueden sacar (numero de ramas - numero de numdos + 1) de ecuaciones linealmente independientes
+- [ ] Hacer ejercicios
 
 
 
