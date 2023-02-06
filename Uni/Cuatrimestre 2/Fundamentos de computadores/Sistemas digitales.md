@@ -58,4 +58,7 @@ Las puertas lógicas en la realidad conllevan un retardo entre cambios en la ent
 - AND
 - [ ] Añadir imagen
 # Full adder
+Permite sumar encadenando full adders, no se usa en la realidad por que es muy lento
+- [ ] Añadir imagen
+
 
