@@ -144,13 +144,5 @@ Se pueden sacar (numero de ramas - numero de numdos + 1) de ecuaciones linealmen
 
 
 
-
-
-
-
 > [!important] Truco
 > Marcar los puntos de mayor y menor potencial en los esquemas de circuitos
-
-
-
-

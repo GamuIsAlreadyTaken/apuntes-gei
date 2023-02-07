@@ -34,4 +34,5 @@ D={n\in Z \big / n|a y n|a_1 y...}
 ## Teorema de Bezout
 
 ## Ecuaciones diofanticas
+- [ ] Hacer los apuntes
 
