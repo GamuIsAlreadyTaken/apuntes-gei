@@ -142,6 +142,28 @@ $$\sum V_{bucle} = 0$$
 Se pueden sacar (numero de ramas - numero de numdos + 1) de ecuaciones linealmente independientes
 - [ ] Hacer ejercicios
 
+## Teoremas para simplificar circuitos
+#### Teorema de Thévenin
+Reducir un circuito a un generador de tension en serie con una resistencia donde
+## $$V_{TH} = V_{ab_{\text{en circuito abierto}}}$$
+## $$R_{TH} = R_{eq_{\text{al eliminar los generadores}}}$$
+eliminación de generadores
+V -> cortocircuito
+I -> circuito abierto
+- [ ] Imagen
+#### Teorema de Norton
+Reducir un circuito a un generacor de corriente en paralelo con una resistencia
+## $$R_{N} = R_{TH}$$
+## $$I_{N}=I_{ab_{\text{en cortocircuito}}}$$
+- [ ] Imagen
+#### Equivalencia de generadores
+Entregan igual V e I a cualquier carga conectada entre sus terminales
+$$I_{N} = \dfrac {V_g}{R_g}$$
+$$R_N = R_g$$
+- [ ] Imagen
+
+
+
 
 
 > [!important] Truco
