@@ -41,3 +41,6 @@ Todo número puede descomponenrse en un unico producto de números primos
 
 Un número p es primo si solo admite una factorización trivial (p * 1)
 Todo primo tiene 4 divisores: 1, -1, p, -p
+
+## MCM
+$$mcm(a, b)\cdot mcd(a, b) = a\cdot b$$
