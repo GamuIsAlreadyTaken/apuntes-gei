@@ -40,4 +40,8 @@ Partición de un espacio muestral: igual que una partición normal
 - [ ] descubrir como poner complementario de A
 
 ## Probabilidad condicionada
-$$P(A|B) = \dfrac{P(A\cap B}{P(B)}$$
+$$P(A|B) = \dfrac{P(A\cap B)}{P(B)}$$
+Probabilidad de b sabiendo que a
+o
+Probabilidad de a antes que b
+$$P(A\cap B)\cdot P^{-1}(B)$$

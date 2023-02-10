@@ -36,3 +36,8 @@ D={n\in Z \big / n|a y n|a_1 y...}
 ## Ecuaciones diofanticas
 - [ ] Hacer los apuntes
 
+## Factorización en números primos
+Todo número puede descomponenrse en un unico producto de números primos
+
+Un número p es primo si solo admite una factorización trivial (p * 1)
+Todo primo tiene 4 divisores: 1, -1, p, -p
