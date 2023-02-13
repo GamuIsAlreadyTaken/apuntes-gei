@@ -70,3 +70,8 @@ Ocurre cuando sumamos dos números con mismo signo y el resultado es un número 
 # Sumador/Restador
 - [ ] imagen
 
+## Comparador
+- [ ] imagen
+
+## Multiplexores
+- [ ] imagen
