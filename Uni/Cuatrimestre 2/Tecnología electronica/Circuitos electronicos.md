@@ -163,7 +163,12 @@ $$R_N = R_g$$
 - [ ] Imagen
 
 
+## teorema de la superposición
+la respuesta de un circuito lineal con varías fuentes de energía es igual que la suma de las respuestas indeividuales de cada fuente
 
+generadores:
+V -> cc
+I -> ca
 
 
 > [!important] Truco
