@@ -44,3 +44,22 @@ Todo primo tiene 4 divisores: 1, -1, p, -p
 
 ## MCM
 $$mcm(a, b)\cdot mcd(a, b) = a\cdot b$$
+
+## Criterios de divisibilidad
+Buscar los valores congruentes con $10^i$ donde $10^i$ es la potencia de 10 con la que está multiplicado cada posición del número que queremos comprobar
+
+## Ecuaciones en congruencia
+$$a\cdot x\equiv_m b$$
+Se resuelve como las ecuaciones diofanticas
+$$
+\begin{align*}
+& a x - b = \dot m \\
+& a x - b = k m \\
+& ax - k m = b \\
+& ax + k m = b
+\end{align*}
+$$
+
+- [ ] Mirar video de ecuaciones diofanticas
+
+
