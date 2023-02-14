@@ -59,7 +59,32 @@ $$
 & ax + k m = b
 \end{align*}
 $$
+siendo d el mcd(a, b), 
+Entre 0 y d no se repiten soluciones y en total hay d soluciones
 
 - [ ] Mirar video de ecuaciones diofanticas
 
+#### Calculo de inversos
+El inverso de $a$ es quel número que al multiplicarlo por $a$ el resultado sea congruente con 1 $$ax\equiv_m1$$
+## Función $\phi$ de Euler
+Sea $n \in \mathbb{N}$ se designa por $\phi(n)$ al número de enteros positivos menores que n y coprimos con el
 
+$$
+\begin{align*}
+\phi(1) &= 1 \\
+\phi(2) &= 1 \\
+p\ \text{primo}\to \phi(p) &= p-1\\
+\phi(p^r) &= p^r-p^{r-1} = p^{r-1}(p-1) \\
+\phi(n\cdot m) &= \phi(n)\cdot\phi(m)
+\end{align*}
+$$
+
+
+## Teorema de Euler y Pequeño teorema de Fermat
+Sean $a$ y $m$ números enteros m > 1
+Si son coprimos entonces $a^{\phi(m)} \equiv_m 1$ 
+ Fermat: 
+
+Si p es un número primo y coprimo con a
+Entonces $a^{p-1}\equiv_m1$ 
+Esto resulta en que $a^{-1} = a^{p-2}$ 
