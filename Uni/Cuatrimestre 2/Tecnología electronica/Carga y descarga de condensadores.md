@@ -18,3 +18,17 @@ Frecuencia: Numero de repeticiones en un segundo $[s^{-1}] = [Hz]$
 
 Señales alternas puras, el area bajo la curva es 0
 Señales alternas compuestas, el area bajo la curva no es cero, se pueden descomponer en señales puras
+
+Propiedades de una señal
+Valor maximo: X_m
+Valor de pico a pico: 2 * X_m
+frecuencia angular: w = 2n * f [rad/s]
+Amplitud: X_m - X_{medio}
+p: fase
+- [ ] poner bien el latex
+$$X(t) = X_m\sin(wt+p)$$
+
+Calcular el valor medio
+$$X_{med} = \overline{X(t)} = \dfrac 1 T\int_0^{x_m}X(t)dt$$
+
+- [ ] Arreglar el latex, Hacer zoom con css
