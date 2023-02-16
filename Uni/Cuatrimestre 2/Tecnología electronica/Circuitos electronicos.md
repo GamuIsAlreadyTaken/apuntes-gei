@@ -158,6 +158,8 @@ Reducir un circuito a un generacor de corriente en paralelo con una resistencia
 - [ ] Imagen
 #### Equivalencia de generadores
 Entregan igual V e I a cualquier carga conectada entre sus terminales
+N: Norton
+g: Thévenin
 $$I_{N} = \dfrac {V_g}{R_g}$$
 $$R_N = R_g$$
 - [ ] Imagen
