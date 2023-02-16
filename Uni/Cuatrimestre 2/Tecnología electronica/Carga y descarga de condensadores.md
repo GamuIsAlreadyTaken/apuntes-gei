@@ -31,4 +31,3 @@ $$X(t) = X_m\sin(wt+p)$$
 Calcular el valor medio
 $$X_{med} = \overline{X(t)} = \dfrac 1 T\int_0^{x_m}X(t)dt$$
 
-- [ ] Arreglar el latex, Hacer zoom con css
