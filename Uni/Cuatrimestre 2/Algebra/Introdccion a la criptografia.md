@@ -30,3 +30,38 @@ $E_{(a, b)}(m) = c\equiv_n am+b$
 
 Codificar letras como números, aplicar la función afin al mensaje codificado, descodificar el resultado, enviar a B que conoce a, b y n
 
+# Criptografía asimetrica o de clave publica
+Asimetrica: Se usan distintas claves para cifrar y descifrar
+Cada usuario U tiene una clave publica $k_u^1$ y otra privada $k_u^2$
+
+Si A envia un mensaje a B, A envia: $s= E_{k_u^1}(m)$ un mensaje encriptado con su clave publica
+B descifra el mensaje con su clave privada: $m=E_{K_u^2}(s)$
+
+Luego $E_{k_u^2}\circ E_{k_u^1}$
+
+### Firma digital
+A encripta el mensaje usando su clave privada, La envía con su clave publica a B, B desencripta el mensaje con su clave privada y lo desvela con la clave publica de A
+
+$A'\to B\to B'\to A$ 
+
+### RSA
+B elije p, q números primos grandes
+$n = p* q$ 
+
+Considera $\phi(n) = (p-1)(q-1)$ y un e con $mcd(\phi(n), e)= 1$ 
+$d\equiv_{\phi(n)} e^{-1}$ 
+
+Clave privada de B (p, q, d)
+Clave publica de B (n, e)
+
+Algoritmo de encriptado: 
+$c\equiv_n m^e$ 
+
+Algoritmo de desencriptado:
+$m\equiv_n c^d$
+
+Funciona gracias al teorema: 
+$a^{ed}\equiv_n a$
+
+
+
