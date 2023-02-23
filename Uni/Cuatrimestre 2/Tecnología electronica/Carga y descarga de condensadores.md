@@ -20,14 +20,17 @@ Señales alternas puras, el area bajo la curva es 0
 Señales alternas compuestas, el area bajo la curva no es cero, se pueden descomponer en señales puras
 
 Propiedades de una señal
-Valor maximo: X_m
-Valor de pico a pico: 2 * X_m
-frecuencia angular: w = 2n * f [rad/s]
-Amplitud: X_m - X_{medio}
+Valor maximo: $X_m$
+Valor de pico a pico: $2 * X_m$
+frecuencia angular: $w = 2n * f$ [rad/s]
+Amplitud: $X_m - X_{\text{medio}}$
+Valor eficaz: $X_ef = \sqrt{X_c^2 + \frac{X_m^2}{2}}$ 
+Valor continuo: $X_c$
 p: fase
 - [ ] poner bien el latex
 $$X(t) = X_m\sin(wt+p)$$
 
-Calcular el valor medio
+Calcular el valor medio, $X_{\text{medio}}$
 $$X_{med} = \overline{X(t)} = \dfrac 1 T\int_0^{x_m}X(t)dt$$
-
+Señal alterna pura
+$$X(t) = X_n\sin{wt+\varphi}$$
