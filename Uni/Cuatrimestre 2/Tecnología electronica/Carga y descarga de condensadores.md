@@ -34,3 +34,29 @@ Calcular el valor medio, $X_{\text{medio}}$
 $$X_{med} = \overline{X(t)} = \dfrac 1 T\int_0^{x_m}X(t)dt$$
 Señal alterna pura
 $$X(t) = X_n\sin{wt+\varphi}$$
+## Condensadores
+Almacena energía utilizando campos electricos y la libera rapidamente
+- [ ] Imagen de condensador signo
+$$\dfrac Q V = C [F]$$
+C = capacidad del condensador, medido en Faradios [F]
+Q = carga
+V = Tension
+
+#### Circuitos RC
+Circuitos con condensadores
+Energía almacenada por un condensador: $$W[J]=\dfrac 1 2 QV = \dfrac 1 2 \dfrac {Q^2} C = \dfrac 1 2 CV^2$$
+Se mide en Julios [J]
+##### Asociación de condensadores 
+- Serie: 
+$$\dfrac 1 C = \dfrac 1 {C_1} = \dfrac 1 {C_2}$$
+$$V = V_1 + V_2$$
+$$Q = Q_1 = Q_2$$
+- Paralelo:
+$$C = C_1 + C_2$$
+$$V = V_1 = V_2$$
+$$Q = Q_1 + Q_2$$
+
+
+
+
+
