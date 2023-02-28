@@ -35,4 +35,6 @@ Las siguientes operaciones elementales* transforman un sistema en otro equivalen
 ### Algoritmo de eliminación Gaussiana
 Transformar la matriz ampliada de un sistema en otras matrices equivalentes mas sencillas utilizando las [[Sistemas de ecuaciones lineales, matrices y determinantes#Resolución de sistemas usando matrices|operaciones elementales]]
 
+Si aparece un pivote en la última columna (La de terminos independientes) el sistema es incompatible
 
+Si el número de variables es mayor que el número de pivotes el sistema es compatible indeterminado
