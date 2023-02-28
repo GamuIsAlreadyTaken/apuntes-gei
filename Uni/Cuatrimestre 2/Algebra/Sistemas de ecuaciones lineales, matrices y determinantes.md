@@ -38,3 +38,36 @@ Transformar la matriz ampliada de un sistema en otras matrices equivalentes mas 
 Si aparece un pivote en la última columna (La de terminos independientes) el sistema es incompatible
 
 Si el número de variables es mayor que el número de pivotes el sistema es compatible indeterminado
+
+## Operaciones matriciales
+Una matriz $A\in M_{m\times n}(K)$ , $K:\mathbb R, \mathbb Z_p,\text{p primo}$
+
+
+> [!y] Tipos de matrices
+> - Matriz columna $M_{1\times n}$
+> - Matriz fila $M_{m\times 1}$
+> - Matriz nula $M_{m\times n}$, todo 0
+> - Matriz cuadrada $M_{n\times n}$, $M_{n}$
+> - Matriz diagonal, cuadrada en la que $a_{ij} = 0,\quad i\neq j$
+> - Matriz triangular superior, cuadrada en la que $a_{ij} = 0,\quad i\gt j$
+> - Matriz triangular inferior, cuadrada en la que $a_{ij} = 0,\quad i\lt j$
+
+
+> [!g] Suma de matrices
+> Ambas matrices deben tener el mismo orden
+> Dado $A = (a_{ij}), B = (b_{ij})\implies A+B=C=(a_{ij} + b_{ij})$ 
+
+
+> [!r] Multiplicación escalar
+> Dado $A = (a_{ij})\implies k\times A = (ka_{ij})$
+
+
+> [!info] Propiedades de la suma y multiplicación escalar de matrices
+> - Asociativa
+> - Conmutativa
+> - Tienen elemento neutro, Matriz nula
+> - Tienen elementro opuesto, donde $A\times-A = 0$
+> - Distributiva (del producto escalar)
+> 
+> Si todas estas propiedades se cumplen tenemos un espacio vectorial
+
