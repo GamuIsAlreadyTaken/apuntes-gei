@@ -78,3 +78,21 @@ Tanto $f$ como $g$ tienen que ser biyectivas para poder ser inversas
 ## Composicion de funciones
 - No es conmutativa $$f\circ g \neq g\circ f$$
 - Es asociativa $$h\circ (g\circ f)=(h\circ g)\circ f$$
+
+
+
+
+
+
+
+
+
+
+
+# Reflexiva $$\forall x \in U, x Rx$$
+
+# Transitiva $$\forall x, y, z\in U, xRy\wedge yRz \implies xRz$$
+
+# Simetrica $$\forall x, y\in U, xRy \implies yRx$$
+
+# Antisimetrica $$\forall x, y \in U, xRy \wedge yRx \implies x = y$$
