@@ -175,3 +175,5 @@ I -> ca
 
 > [!important] Truco
 > Marcar los puntos de mayor y menor potencial en los esquemas de circuitos
+
+
