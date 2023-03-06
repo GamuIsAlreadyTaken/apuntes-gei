@@ -60,17 +60,17 @@ $$Q = Q_1 + Q_2$$
 
 
 ## Amplificadores
-- Ganancia de tensión -> A_v = \dfrac {V_0} {V_i}
+- Ganancia de tensión -> $A_v = \dfrac {V_0} {V_i}$
 $$A_v(dB) = 20 \log_{10} {\dfrac {|{V_0}|} {|{V_i}|}}$$
 
-- Ganancia de corriente -> A_I = \dfrac {I_0} {I_i}
+- Ganancia de corriente -> $A_I = \dfrac {I_0} {I_i}$
 $$A_I(dB) = 20 \log_{10} {\dfrac {|{I_0}|} {|{I_i}|}}$$
 
-- Ganancia de potencia -> A_p = \dfrac {P_0} {P_i}
+- Ganancia de potencia -> $A_p = \dfrac {P_0} {P_i}$
 $$A_P(dB) = {\dfrac {|{P_0}|} {|{P_i}|}} = A_VA_I$$
 
-- Resistencia de entrada: $\dfrac {V_i} {I_i}$
-- resistencia de salida : $\dfrac {V_0 (R_l\to\infty)} {I_0 (R_L = 0)}$
+- Resistencia de entrada: $R_I=\dfrac {V_i} {I_i}$
+- Resistencia de salida : $R_0\dfrac {V_0 (R_L\to\infty)} {I_0 (R_L = 0)}$
 
 - Respuesta en frecuencia: los amplificadores tienen un ancho de banda donde funcionan sin deformar la señal de entrada
 	- Cae 3 dB en $A_v, A_I \to \dfrac {A_m} {\sqrt 2}$
