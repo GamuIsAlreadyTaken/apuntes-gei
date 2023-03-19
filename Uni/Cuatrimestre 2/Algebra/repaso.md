@@ -54,3 +54,21 @@ Nota: puedes utilizar que 1 =(840 · -60 +) 499 · 101. -> $1\equiv_{840}499\tim
 $\phi(840)$
 2 2 2 5 7 3
 $2^3, 3, 5, 7$ -> 4x2x4x6 = 192
+
+
+
+Indice:
+1. Sistemas de ecuaciones lineales, (0, 1, +1)
+2. Matrices
+3. Matriz ampliada asociada
+4. Resolución de sistemas de ecuaciones, Eliminación gaussiana
+5. Operaciones matriciales
+	1. Suma
+	2. Escalar
+	3. Producto
+	4. Transposición
+	5. Inversa
+6. Determinantes
+
+
+1.
