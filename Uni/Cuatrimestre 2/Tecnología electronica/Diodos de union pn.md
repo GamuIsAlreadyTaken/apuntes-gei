@@ -22,3 +22,9 @@ p: huecos (~carga positiva)
 
 - [ ] Imagenes de todo, y quiza el video de electroBOOM 
 
+Diodos pn
+Diodos zéner
+Diodos LED
+Fotodiodos
+Octoacopladores (conecta circuitos usando luz, A tiene un LED, B tiene un fotodiodo)
+
