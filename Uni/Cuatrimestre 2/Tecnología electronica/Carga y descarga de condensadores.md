@@ -48,7 +48,7 @@ Energía almacenada por un condensador: $$W[J]=\dfrac 1 2 QV = \dfrac 1 2 \dfrac
 Se mide en Julios [J]
 ##### Asociación de condensadores 
 - Serie: 
-$$\dfrac 1 C = \dfrac 1 {C_1} = \dfrac 1 {C_2}$$
+$$\dfrac 1 C = \dfrac 1 {C_1} + \dfrac 1 {C_2}$$
 $$V = V_1 + V_2$$
 $$Q = Q_1 = Q_2$$
 - Paralelo:
