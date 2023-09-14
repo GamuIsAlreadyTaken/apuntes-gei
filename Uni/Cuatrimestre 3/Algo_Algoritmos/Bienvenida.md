@@ -7,4 +7,6 @@ Busca acotar los valores de los recursos, especialmente cuando tiende a infinito
 => T(n) = O(f(n))
 
 
-Ignorar factores constantes y terminos de orden inferior
+## Notaciones asintóticas
+
+O de n: Cota superior/igual
