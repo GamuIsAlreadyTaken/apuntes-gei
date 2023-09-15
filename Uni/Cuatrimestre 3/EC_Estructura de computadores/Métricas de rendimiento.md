@@ -19,6 +19,9 @@ Donde $\text{NI}_i$ es el número total de instrucciones de tipo $i$, $\text{CPI
 
 5. FLOPS: operaciones de punto flotante por segundo
 
+# Ley de Amdahl
+La mejora obtenida en el rendimiento al utilizar una parte optimizada está limitada por la fracción de tiempo que se puede utilizar esa parte
+
 
 
 
