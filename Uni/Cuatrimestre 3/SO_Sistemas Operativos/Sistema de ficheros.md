@@ -8,4 +8,8 @@ Estructura lógica del sistema de ficheros (System V)
 
 
 
-INODO: Guarda metadatos sobre ficheros
+INODO: Guarda metadatos sobre ficheros (Sectores que componen el archivo y otros metadatos)
+
+df: muestra los sistemas de ficheros montados
+
+mount: monta un sistema de ficheros en un directorio
