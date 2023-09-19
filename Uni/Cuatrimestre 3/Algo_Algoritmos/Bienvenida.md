@@ -22,3 +22,9 @@ Idea del ordenador ideal que ejecuta el algoritmo
 - Ordenador secuencial
 - Cada instrucción es un paso
 - Memoria infinita
+
+Hipótesis de la operación elemental: cuenta todas las operaciones
+Operación principal (nombre raro): cuenta solo la operación mas costosa
+
+Puede ocurrir que un algoritmo presente casos, (Mejor caso, peor caso, caso medio)
+
