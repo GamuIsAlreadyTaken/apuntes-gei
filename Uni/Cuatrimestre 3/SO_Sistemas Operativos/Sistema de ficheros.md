@@ -13,3 +13,5 @@ INODO: Guarda metadatos sobre ficheros (Sectores que componen el archivo y otros
 df: muestra los sistemas de ficheros montados
 
 mount: monta un sistema de ficheros en un directorio
+
+Importante, Inodos
