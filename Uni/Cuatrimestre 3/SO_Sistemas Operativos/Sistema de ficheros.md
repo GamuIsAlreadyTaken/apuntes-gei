@@ -15,3 +15,6 @@ df: muestra los sistemas de ficheros montados
 mount: monta un sistema de ficheros en un directorio
 
 Importante, Inodos
+
+\#include <pwd.h> <- Buscar la fn para sacar el nombre dado un uid
+\#include <grp.h> <- `` gid
