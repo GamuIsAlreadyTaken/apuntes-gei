@@ -68,23 +68,10 @@ Al no ser inyectivas no existe la funcion inversa para resolverlo se coge un int
 > <img src="https://luishervella.github.io/JB_Calculo1_UDC/_images/cap3_funcion_atan.png" class="center">
 
 
-```mermaid
-mindmap
-	root((mindmap))
-		Origins
-			Long history
-			::icon(fa fa-book)
-			Popularisation
-			British popular psychology author Tony Buzan
-		Research
-		On effectivness<br/>and features
-		On Automatic creation
-			Uses
-				Creative techniques
-				Strategic planning
-				Argument mapping
-		Tools
-			Pen and paper
-			Mermaid
-```
+> [!important] Mermaid can be used in code blocks
+> ```mermaid 
+> 	stateDiagram
+> 		a --> b
+> 		b --> a
+> ```
 
